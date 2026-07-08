@@ -99,19 +99,9 @@ Recommended next steps:
 - Replace remaining product wording with Amara-specific wording where appropriate.
 - Add Persian documentation for admins and end users.
 
-## Upstream
-
-Amara Data Analyze is based on Metabase, an open-source business intelligence platform.
-
-Original upstream project:
-
-```text
-https://github.com/metabase/metabase
-```
-
 ## License
 
-This fork keeps the upstream licensing structure. See:
+See:
 
 ```text
 LICENSE.txt
