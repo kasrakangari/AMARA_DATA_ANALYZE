@@ -14,6 +14,8 @@
   (eduction
    (filter i18n/backend-message?)
    (remove (fn [{:keys [id]}] (contains? drop-msgids id)))
+   (map (fn [message]
+          (assoc message :id (i18n/runtime-message-id message))))
    i18n/print-message-count-xform
    messages))
 

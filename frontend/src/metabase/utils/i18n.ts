@@ -40,10 +40,7 @@ function setLanguage(translationsObject: LocaleDataWithLanguage): void {
 
 const ARABIC_LOCALES = ["ar", "ar-sa"];
 const RTL_LOCALES = ["ar", "ar-sa", "fa", "he"];
-const BRAND_REPLACEMENTS = [
-  ["Metabase", "Amara"],
-  ["metabase", "amara"],
-];
+const BRAND_NAME_PATTERN = /\b(?:metabase|amara)\b/gi;
 const BRANDING_SKIP_TAGS = new Set(["SCRIPT", "STYLE", "TEMPLATE", "NOSCRIPT"]);
 
 export function setLocalization(
@@ -83,10 +80,7 @@ function replaceBrandName(text: string | null): string | null {
     return text;
   }
 
-  return BRAND_REPLACEMENTS.reduce(
-    (result, [from, to]) => result.replaceAll(from, to),
-    text,
-  );
+  return text.replace(BRAND_NAME_PATTERN, "AMARA");
 }
 
 function updateTextNodeBranding(node: Node): void {
@@ -132,7 +126,7 @@ function updateDocumentBranding(): void {
     document.body,
     NodeFilter.SHOW_TEXT | NodeFilter.SHOW_ELEMENT,
     {
-      acceptNode: node =>
+      acceptNode: (node) =>
         isBrandingSkippedNode(node)
           ? NodeFilter.FILTER_REJECT
           : NodeFilter.FILTER_ACCEPT,

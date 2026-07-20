@@ -18,13 +18,13 @@
   :type       :string
   :audit      :getter
   :feature    :whitelabel
-  :default    "Metabase")
+  :default    "AMARA")
 
 (defsetting site-name
   (deferred-tru "The name used for this instance of {0}."
                 (setting/application-name-for-setting-descriptions application-name))
   :encryption :no
-  :default    "Metabase"
+  :default    "AMARA"
   :audit      :getter
   :visibility :settings-manager
   :export?    true)

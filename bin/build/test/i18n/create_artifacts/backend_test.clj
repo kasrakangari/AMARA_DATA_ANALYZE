@@ -43,6 +43,8 @@
       ["metabase_enterprise/audit_app/interface.clj:25"]                            true
       ["enterprise/backend/test/metabase_enterprise/serialization/load_test.clj"]   true
       ["target/classes/metabase/request/util.clj"]                                  true
+      ;; Automatic dashboard templates are rendered by the backend
+      ["resources/automagic_dashboards/table/GenericTable.yaml"]                   true
       ;; Both a FE and a BE path
       ["frontend/src/metabase/browse/components/TableBrowser/TableBrowser.jsx:145"
        "metabase/warehouses_rest/api.clj:178"]                                      true
@@ -52,6 +54,19 @@
       ["frontend/src/metabase/public/components/widgets/SharingPane.tsx:69"]        false
       ["test.cljs"]                                                                 false
       ["test.cljs:123"]                                                             false
+      ["resources/other/template.yaml"]                                             false
       ;; Invalid or empty references
       []                                                                            false
       ["foo"]                                                                       false)))
+
+(deftest ^:parallel runtime-message-id-test
+  (testing "automatic-dashboard message IDs retain MessageFormat apostrophe escaping"
+    (is (= "Here''s a quick look at [[this]]"
+           (i18n/runtime-message-id
+            {:id "Here's a quick look at [[this]]"
+             :source-references ["resources/automagic_dashboards/table/GenericTable.yaml"]}))))
+  (testing "ordinary backend message IDs are unchanged"
+    (is (= "Here's a regular backend message"
+           (i18n/runtime-message-id
+            {:id "Here's a regular backend message"
+             :source-references ["src/metabase/example.clj:10"]})))))

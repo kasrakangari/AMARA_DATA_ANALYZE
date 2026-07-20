@@ -9,15 +9,12 @@ interface LogoIconProps {
   fill?: string;
 }
 
-export const DefaultLogoIcon = ({
-  height = 32,
-  width,
-}: LogoIconProps) => {
+export const DefaultLogoIcon = ({ height = 32, width }: LogoIconProps) => {
   const resolvedWidth = width ?? height;
 
   return (
     <img
-      alt="Amara"
+      alt="AMARA"
       data-testid="main-logo"
       height={height}
       src={AMARA_LOGO_URL}

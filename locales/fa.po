@@ -5,16 +5,16 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Project-Id-Version: amara-i18n\n"
-"Report-Msgid-Bugs-To: docs@amara.com\n"
+"Project-Id-Version: AMARA-i18n\n"
+"Report-Msgid-Bugs-To: docs@AMARA.com\n"
 "POT-Creation-Date: 2026-05-19 06:55+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Crowdin-Project: amara-i18n\n"
+"X-Crowdin-Project: AMARA-i18n\n"
 "X-Crowdin-Project-ID: 758295\n"
 "X-Crowdin-Language: fa\n"
-"X-Crowdin-File: amara.po\n"
+"X-Crowdin-File: AMARA.po\n"
 "X-Crowdin-File-ID: 2\n"
 "Language-Team: Persian\n"
 "Language: fa_IR\n"
@@ -457,7 +457,7 @@ msgstr "ساخته‌شده در"
 
 #: frontend/src/metabase/nav/components/AboutModal/AboutModal.tsx:63
 msgid "Metabase is a Trademark of Metabase, Inc"
-msgstr "Amara یک علامت تجاری متعلق به Amara, Inc است"
+msgstr "AMARA یک علامت تجاری متعلق به AMARA, Inc است"
 
 #: frontend/src/metabase/nav/components/AboutModal/AboutModal.tsx:70
 msgid "and is built with care by a team from all across this pale blue dot."
@@ -1008,7 +1008,7 @@ msgstr "خطایی رخ داد"
 
 #: enterprise/frontend/src/metabase-enterprise/content_translation/components/ContentTranslationConfiguration/ContentTranslationConfiguration.tsx:123
 msgid "Upload a translation dictionary to translate strings both in Metabase content (like dashboard titles) and in the data itself (like column names and values). The dictionary must be a CSV with these columns: **Locale Code**, **String**, **Translation**."
-msgstr "یک دیکشنری ترجمه آپلود کنید تا رشته‌ها را هم در محتوای Amara (مثل عنوان‌های داشبورد) و هم در خود داده‌ها (مثل نام و مقدار ستون‌ها) ترجمه کند. دیکشنری باید یک CSV با این ستون‌ها باشد: **Locale Code**، **String**، **Translation**."
+msgstr "یک دیکشنری ترجمه آپلود کنید تا رشته‌ها را هم در محتوای AMARA (مثل عنوان‌های داشبورد) و هم در خود داده‌ها (مثل نام و مقدار ستون‌ها) ترجمه کند. دیکشنری باید یک CSV با این ستون‌ها باشد: **Locale Code**، **String**، **Translation**."
 
 #: enterprise/frontend/src/metabase-enterprise/content_translation/components/ContentTranslationConfiguration/ContentTranslationConfiguration.tsx:134
 msgid "Translate embedded dashboards and questions"
@@ -1138,7 +1138,7 @@ msgstr "بستن"
 
 #: enterprise/frontend/src/metabase-enterprise/database_routing/DatabaseRoutingSection/DatabaseRoutingSection.tsx:64
 msgid "When someone views a question using data from this database, Metabase will send the queries to the destination database set by the person's user attribute. Each destination database must have identical schemas."
-msgstr "وقتی کسی یک سؤال را با استفاده از داده‌های این پایگاه داده مشاهده می‌کند، Amara کوئری‌ها را به پایگاه دادهٔ مقصدی می‌فرستد که با attribute کاربری فرد تعیین شده است. هر پایگاه دادهٔ مقصد باید schemaهای یکسان داشته باشد."
+msgstr "وقتی کسی یک سؤال را با استفاده از داده‌های این پایگاه داده مشاهده می‌کند، AMARA کوئری‌ها را به پایگاه دادهٔ مقصدی می‌فرستد که با attribute کاربری فرد تعیین شده است. هر پایگاه دادهٔ مقصد باید schemaهای یکسان داشته باشد."
 
 #: enterprise/frontend/src/metabase-enterprise/database_routing/DatabaseRoutingSection/DatabaseRoutingSection.tsx:108
 msgid "Database routing enabled"
@@ -1250,7 +1250,7 @@ msgstr "برای کار با صفحه‌گسترده‌ها، می‌توانی�
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveSyncStatus.tsx:117
 #: enterprise/frontend/src/metabase-enterprise/google_drive/utils.tsx:94
 msgid "Please check that the folder is shared with the Metabase Service Account."
-msgstr "لطفاً بررسی کنید پوشه با حساب سرویس Amara به اشتراک گذاشته شده باشد."
+msgstr "لطفاً بررسی کنید پوشه با حساب سرویس AMARA به اشتراک گذاشته شده باشد."
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveAddDataPanel.tsx:198
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveConnectionModal.tsx:139
@@ -1263,7 +1263,7 @@ msgstr "افزودن جدید"
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveAddDataPanel.tsx:218
 msgid "Metabase Storage is full. Add more storage to continue syncing."
-msgstr "Amara Storage پر است. برای ادامهٔ سینک، Storage بیشتری اضافه کنید."
+msgstr "AMARA Storage پر است. برای ادامهٔ سینک، Storage بیشتری اضافه کنید."
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveAddDataPanel.tsx:221
 msgid "Add storage"
@@ -1331,11 +1331,11 @@ msgstr "امکان قطع اتصال از این ارائه‌دهندهٔ هو�
 
 #: enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabaseAIProviderSetup.tsx:211
 msgid "About Metabase AI service"
-msgstr "دربارهٔ سرویس هوش مصنوعی Amara"
+msgstr "دربارهٔ سرویس هوش مصنوعی AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabaseAIProviderSetup.tsx:215
 msgid "The simplest way to get started with AI in Metabase. We pick a benchmarked, cost effective model for you, and billing is managed through your Metabase account."
-msgstr "ساده‌ترین راه برای شروع کار با هوش مصنوعی در Amara. ما یک مدل بنچمارک‌شده و مقرون‌به‌صرفه برایتان انتخاب می‌کنیم و صورتحساب از طریق حساب Amara شما مدیریت می‌شود."
+msgstr "ساده‌ترین راه برای شروع کار با هوش مصنوعی در AMARA. ما یک مدل بنچمارک‌شده و مقرون‌به‌صرفه برایتان انتخاب می‌کنیم و صورتحساب از طریق حساب AMARA شما مدیریت می‌شود."
 
 #: enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabaseAIProviderSetup.tsx:241
 msgid "You're on legacy tiered AI pricing today. On your next billing cycle, you'll switch to metered AI pricing."
@@ -1344,12 +1344,12 @@ msgstr "شما اکنون روی قیمت‌گذاری قدیمیِ پلکانی
 #: enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabaseAIProviderSetup.tsx:250
 #, javascript-format
 msgid "Please ask a Metabase Store Admin{0} of your organization to enable this for you."
-msgstr "لطفاً از یکی از Amara Store Admin{0} سازمانتان بخواهید این را برایتان فعال کند."
+msgstr "لطفاً از یکی از AMARA Store Admin{0} سازمانتان بخواهید این را برایتان فعال کند."
 
 #: enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabaseAIProviderSetup.tsx:261
 #, javascript-format
 msgid "I agree with the Metabase AI Service {0}"
-msgstr "با شرایط سرویس هوش مصنوعی Amara {0} موافقم"
+msgstr "با شرایط سرویس هوش مصنوعی AMARA {0} موافقم"
 
 #: enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabaseAIProviderSetup.tsx:267
 msgid "Terms of Service"
@@ -1438,7 +1438,7 @@ msgstr "در هر زمان فقط یک اجرای فعال برای جایگزی
 
 #: enterprise/frontend/src/metabase-enterprise/settings/hooks/use-license.ts:13
 msgid "We're having trouble validating your token. Please double-check that your instance can connect to Metabase's servers."
-msgstr "در تأیید توکن شما به مشکل برخورده‌ایم. لطفاً دوباره بررسی کنید که نمونه شما می‌تواند به سرورهای Amara وصل شود."
+msgstr "در تأیید توکن شما به مشکل برخورده‌ایم. لطفاً دوباره بررسی کنید که نمونه شما می‌تواند به سرورهای AMARA وصل شود."
 
 #: enterprise/frontend/src/metabase-enterprise/semantic_search/SearchSettingsWidget.tsx:67
 msgid "Advanced semantic search"
@@ -1471,12 +1471,12 @@ msgstr "مقدارهای فیلتر را برای زمانی که این ارس�
 #: enterprise/frontend/src/metabase-enterprise/smtp-override/components/CloudSMTPConnectionCard.tsx:69
 #: enterprise/frontend/src/metabase-enterprise/smtp-override/components/CloudSMTPConnectionCard.tsx:84
 msgid "Managed by Metabase"
-msgstr "مدیریت‌شده توسط Amara"
+msgstr "مدیریت‌شده توسط AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/smtp-override/components/CloudSMTPConnectionCard.tsx:71
 #: enterprise/frontend/src/metabase-enterprise/smtp-override/components/CloudSMTPConnectionCard.tsx:86
 msgid "Emails come from Metabase Cloud email server"
-msgstr "ایمیل‌ها از سرور ایمیل Amara Cloud ارسال می‌شوند"
+msgstr "ایمیل‌ها از سرور ایمیل AMARA Cloud ارسال می‌شوند"
 
 #: enterprise/frontend/src/metabase-enterprise/smtp-override/components/CloudSMTPConnectionCard.tsx:97
 msgid "Custom SMTP Server"
@@ -1608,7 +1608,7 @@ msgstr "تک‌مستأجر"
 
 #: enterprise/frontend/src/metabase-enterprise/tenants/EditUserStrategyModal/EditUserStrategyModal.tsx:113
 msgid "All users exist in the same world and are managed via Metabase groups. Ideal for internal company analytics, proof of concept, or simple embedding setups."
-msgstr "همهٔ کاربران در یک محیط مشترک هستند و از طریق گروه‌های Amara مدیریت می‌شوند. ایده‌آل برای تحلیل داخلی شرکت، PoC، یا تنظیمات سادهٔ جاسازی."
+msgstr "همهٔ کاربران در یک محیط مشترک هستند و از طریق گروه‌های AMARA مدیریت می‌شوند. ایده‌آل برای تحلیل داخلی شرکت، PoC، یا تنظیمات سادهٔ جاسازی."
 
 #: enterprise/frontend/src/metabase-enterprise/tenants/EditUserStrategyModal/EditUserStrategyModal.tsx:121
 msgid "Pick a user strategy"
@@ -2126,11 +2126,11 @@ msgstr "مجوزهای اپلیکیشن"
 #: frontend/src/metabase/admin/permissions/components/CollectionPermissionsHelp/CollectionPermissionsHelp.tsx:14
 #: frontend/src/metabase/admin/permissions/components/DataPermissionsHelp/DataPermissionsHelp.tsx:41
 msgid "People can be members of multiple groups, and Metabase grants them the most permissive level of access across all of a person's groups."
-msgstr "افراد می‌توانند عضو چند گروه باشند و Amara بیشترین سطح دسترسیِ مجاز را بین همهٔ گروه‌های هر فرد به او می‌دهد."
+msgstr "افراد می‌توانند عضو چند گروه باشند و AMARA بیشترین سطح دسترسیِ مجاز را بین همهٔ گروه‌های هر فرد به او می‌دهد."
 
 #: frontend/src/metabase/admin/permissions/components/ApplicationPermissionsHelp/ApplicationPermissionsHelp.tsx:17
 msgid "Application settings are useful for granting groups access to some, but not all, of Metabase’s administrative features."
-msgstr "تنظیمات اپلیکیشن برای دادن دسترسی به گروه‌ها به برخی، اما نه همهٔ قابلیت‌های مدیریتی Amara، مفید است."
+msgstr "تنظیمات اپلیکیشن برای دادن دسترسی به گروه‌ها به برخی، اما نه همهٔ قابلیت‌های مدیریتی AMARA، مفید است."
 
 #: frontend/src/metabase/admin/permissions/components/ApplicationPermissionsHelp/ApplicationPermissionsHelp.tsx:19
 #, javascript-format
@@ -3099,7 +3099,7 @@ msgstr "برندینگ"
 
 #: frontend/src/metabase/palette/constants.ts:87
 msgid "Conceal metabase"
-msgstr "پنهان کردن amara"
+msgstr "پنهان کردن AMARA"
 
 #: frontend/src/metabase/admin/settings/components/SettingsNav/SettingsNav.tsx:127
 #: frontend/src/metabase/admin/settings/components/SettingsPages/CloudSettingsPage.tsx:18
@@ -3446,7 +3446,7 @@ msgstr "هیچ اتصال پایگاه دادهٔ قابل نوشتنی وجود
 #: frontend/src/metabase/transforms/pages/EnableTransformsPage/EnableTransformsCard.tsx:83
 #, javascript-format
 msgid "Transforms create tables in your database, so Metabase needs write access. {0} with a user that has the right privileges."
-msgstr "Transforms در پایگاه دادهٔ شما جدول ایجاد می‌کند، بنابراین Amara به دسترسی نوشتن نیاز دارد. {0} با کاربری که دسترسی‌های لازم را دارد."
+msgstr "Transforms در پایگاه دادهٔ شما جدول ایجاد می‌کند، بنابراین AMARA به دسترسی نوشتن نیاز دارد. {0} با کاربری که دسترسی‌های لازم را دارد."
 
 #: frontend/src/metabase/transforms/pages/EnableTransformsPage/EnableTransformsCard.tsx:88
 msgid "Reconnect or add a connection"
@@ -4467,7 +4467,7 @@ msgstr "فاصلهٔ خالیِ ابتدای یک رشتهٔ متنی را حذ�
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:632
 msgid "Extracts the domain name (eg. `\"metabase\"`) from a URL or email"
-msgstr "نام دامنه را (مثلاً `\"amara\"`) از یک URL یا ایمیل استخراج می‌کند"
+msgstr "نام دامنه را (مثلاً `\"AMARA\"`) از یک URL یا ایمیل استخراج می‌کند"
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:635
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:665
@@ -4480,7 +4480,7 @@ msgstr "ستون URL یا Email برای استخراج نام دامنه از �
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:647
 msgid "Extracts the first subdomain (eg. `\"status\"` from `\"status.metabase.com\"`, `\"\"` from `\"bbc.co.uk\"`) from a URL. Ignores `\"www\"`."
-msgstr "اولین subdomain را (مثلاً `\"status\"` از `\"status.amara.com\"`، `\"\"` از `\"bbc.co.uk\"`) از یک URL استخراج می‌کند. `\"www\"` را نادیده می‌گیرد."
+msgstr "اولین subdomain را (مثلاً `\"status\"` از `\"status.AMARA.com\"`، `\"\"` از `\"bbc.co.uk\"`) از یک URL استخراج می‌کند. `\"www\"` را نادیده می‌گیرد."
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:652
 msgid "The URL column to extract the subdomain from."
@@ -4492,7 +4492,7 @@ msgstr "ProfileImage"
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:662
 msgid "Extracts the host (domain name and TLD, eg. `\"metabase.com\"` from `\"status.metabase.com\"`) from a URL or email"
-msgstr "host را (نام دامنه و TLD، مثلاً `\"amara.com\"` از `\"status.amara.com\"`) از یک URL یا ایمیل استخراج می‌کند"
+msgstr "host را (نام دامنه و TLD، مثلاً `\"AMARA.com\"` از `\"status.AMARA.com\"`) از یک URL یا ایمیل استخراج می‌کند"
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:667
 msgid "The URL or Email column to extract the host from."
@@ -4771,7 +4771,7 @@ msgid "Optional. The default is `\"ISO\"`.\n"
 msgstr "اختیاری. پیش‌فرض `\"ISO\"` است.\n"
 "- ISO: هفتهٔ ۱ از دوشنبهٔ قبل از اولین پنج‌شنبهٔ ژانویه شروع می‌شود.\n"
 "- US: هفتهٔ ۱ از ۱ ژانویه شروع می‌شود. همهٔ هفته‌های دیگر از یکشنبه شروع می‌شوند.\n"
-"- Instance: هفتهٔ ۱ از ۱ ژانویه شروع می‌شود. همهٔ هفته‌های دیگر از روزی شروع می‌شوند که در تنظیمات محلی‌سازی Amara شما تعریف شده است."
+"- Instance: هفتهٔ ۱ از ۱ ژانویه شروع می‌شود. همهٔ هفته‌های دیگر از روزی شروع می‌شوند که در تنظیمات محلی‌سازی AMARA شما تعریف شده است."
 
 #: frontend/src/metabase-lib/query/clauses/clauses.ts:1073
 msgid "Takes a datetime and returns an integer (`1`-`31`) with the number of the day of the month."
@@ -5732,7 +5732,7 @@ msgstr "فعال: وقتی کاربر از طریق {0} وارد می‌شود،
 #: enterprise/frontend/src/metabase-enterprise/auth/utils.ts:38
 #, javascript-format
 msgid "Disabled: Only users with active Metabase accounts can log in using {0}."
-msgstr "غیرفعال: فقط کاربرانی که حساب فعال در Amara دارند می‌توانند با استفاده از {0} وارد شوند."
+msgstr "غیرفعال: فقط کاربرانی که حساب فعال در AMARA دارند می‌توانند با استفاده از {0} وارد شوند."
 
 #: enterprise/frontend/src/metabase-enterprise/caching/constants.ts:24
 msgid "A cron expression is required"
@@ -5964,7 +5964,7 @@ msgstr "Replication پایگاه داده"
 
 #: enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationSection.tsx:56
 msgid "Continuously sync the tables from this database with Metabase Cloud Storage - a fast managed database. Then query the copied tables instead of the originals."
-msgstr "جدول‌های این پایگاه داده را به‌طور پیوسته با Amara Cloud Storage (یک پایگاه دادهٔ مدیریت‌شده و سریع) سینک کنید. سپس به‌جای نسخه‌های اصلی، روی جدول‌های کپی‌شده کوئری بزنید."
+msgstr "جدول‌های این پایگاه داده را به‌طور پیوسته با AMARA Cloud Storage (یک پایگاه دادهٔ مدیریت‌شده و سریع) سینک کنید. سپس به‌جای نسخه‌های اصلی، روی جدول‌های کپی‌شده کوئری بزنید."
 
 #: enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationSection.tsx:63
 msgid "Stopping…"
@@ -5996,11 +5996,11 @@ msgstr "فقط حدود یک دقیقه طول می‌کشد"
 
 #: enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationStatusInfo.tsx:21
 msgid "Replicating to Metabase Cloud Storage"
-msgstr "در حال Replicate کردن به Amara Cloud Storage"
+msgstr "در حال Replicate کردن به AMARA Cloud Storage"
 
 #: enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationStatusInfo.tsx:23
 msgid "Not replicating to Metabase Cloud Storage"
-msgstr "در حال Replicate نکردن به Amara Cloud Storage"
+msgstr "در حال Replicate نکردن به AMARA Cloud Storage"
 
 #: enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationSuccess.tsx:18
 msgid "Replication in progress"
@@ -6050,7 +6050,7 @@ msgstr "Slug"
 
 #: enterprise/frontend/src/metabase-enterprise/database_routing/index.tsx:28
 msgid "Metabase will route queries to this database when the user attribute value matches this slug."
-msgstr "Amara وقتی مقدار ویژگی کاربر با این slug مطابقت داشته باشد، کوئری‌ها را به این پایگاه داده مسیریابی می‌کند."
+msgstr "AMARA وقتی مقدار ویژگی کاربر با این slug مطابقت داشته باشد، کوئری‌ها را به این پایگاه داده مسیریابی می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/database_routing/index.tsx:29
 msgid "For example, pro-users"
@@ -6505,7 +6505,7 @@ msgstr "برای افزودن یک پوشه جدید Google Drive، ابتدا �
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveConnectionModal.strings.ts:30
 msgid "Only one folder can be synced with Metabase at a time. Your tables and Google Sheets will remain in place."
-msgstr "در هر زمان فقط یک پوشه می‌تواند با Amara sync شود. جدول‌ها و Google Sheets شما سر جای خود باقی می‌مانند."
+msgstr "در هر زمان فقط یک پوشه می‌تواند با AMARA sync شود. جدول‌ها و Google Sheets شما سر جای خود باقی می‌مانند."
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/GdriveConnectionModal.strings.ts:31
 msgid "Your existing tables and Google Sheets will remain in place but they will no longer be updated automatically."
@@ -6607,7 +6607,7 @@ msgstr "فایل آپلود نشد، فضای ذخیره‌سازی پر است"
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/PausedModal.tsx:27
 msgid "Add more storage to your Metabase or connect a database to store the uploaded files."
-msgstr "فضای ذخیره‌سازی بیشتری به Amara اضافه کنید یا یک دیتابیس وصل کنید تا فایل‌های آپلودشده در آن ذخیره شوند."
+msgstr "فضای ذخیره‌سازی بیشتری به AMARA اضافه کنید یا یک دیتابیس وصل کنید تا فایل‌های آپلودشده در آن ذخیره شوند."
 
 #: enterprise/frontend/src/metabase-enterprise/google_drive/PausedModal.tsx:28
 msgid "Please contact your admin to add more storage."
@@ -7217,7 +7217,7 @@ msgstr "سرور MCP"
 #: frontend/src/metabase/admin/ai/McpAppsSettings.tsx:68
 #, javascript-format
 msgid "Allow MCP clients to connect to your Metabase instance. {0}"
-msgstr "به کلاینت‌های MCP اجازه دهید به نمونهٔ Amara شما متصل شوند. {0}"
+msgstr "به کلاینت‌های MCP اجازه دهید به نمونهٔ AMARA شما متصل شوند. {0}"
 
 #: frontend/src/metabase/admin/ai/McpAppsSettings.tsx:117
 msgid "Supported MCP clients"
@@ -7327,7 +7327,7 @@ msgstr "Metabot را فعال کنید"
 
 #: frontend/src/metabase/admin/ai/MetabotSettingsPanel.tsx:101
 msgid "Metabot is Metabase's AI assistant. When enabled, Metabot will be available to help users create queries, analyze data, and answer questions about your data."
-msgstr "Metabot دستیار هوش مصنوعی Amara است. وقتی فعال باشد، Metabot برای کمک به کاربران در ساخت کوئری‌ها، تحلیل داده‌ها و پاسخ‌دادن به سؤال‌ها دربارهٔ داده‌های شما در دسترس خواهد بود."
+msgstr "Metabot دستیار هوش مصنوعی AMARA است. وقتی فعال باشد، Metabot برای کمک به کاربران در ساخت کوئری‌ها، تحلیل داده‌ها و پاسخ‌دادن به سؤال‌ها دربارهٔ داده‌های شما در دسترس خواهد بود."
 
 #: frontend/src/metabase/admin/ai/MetabotSettingsPanel.tsx:116
 msgid "Embedded Metabot is enabled"
@@ -7378,7 +7378,7 @@ msgstr "یک مجموعه را انتخاب کنید"
 
 #: frontend/src/metabase/admin/ai/MetabotSetup.tsx:63
 msgid "Available models are provided by Metabase."
-msgstr "مدل‌های موجود توسط Amara ارائه می‌شوند."
+msgstr "مدل‌های موجود توسط AMARA ارائه می‌شوند."
 
 #: frontend/src/metabase/admin/ai/MetabotSetup.tsx:66
 msgid "Available models are fetched from the selected provider using its configured API key."
@@ -7916,7 +7916,7 @@ msgstr "کش را کنترل کنید"
 #: frontend/src/metabase/admin/upsells/UpsellSSO.tsx:32
 #: frontend/src/metabase/common/components/upsells/UpsellEmbedHomepage.tsx:16
 msgid "Try Metabase Pro"
-msgstr "Amara Pro را امتحان کنید"
+msgstr "AMARA Pro را امتحان کنید"
 
 #: frontend/src/metabase/admin/upsells/UpsellCacheConfig.tsx:31
 #, javascript-format
@@ -7925,12 +7925,12 @@ msgstr "کنترل‌های کش دانه‌ریز برای هر دیتابیس�
 
 #: frontend/src/metabase/admin/upsells/UpsellCacheConfig.tsx:32
 msgid "Metabase Pro."
-msgstr "Amara Pro."
+msgstr "AMARA Pro."
 
 #: frontend/src/metabase/admin/upsells/UpsellCloud.tsx:23
 #: frontend/src/metabase/admin/upsells/UpsellHosting.tsx:29
 msgid "Migrate to Metabase Cloud"
-msgstr "مهاجرت به Amara Cloud"
+msgstr "مهاجرت به AMARA Cloud"
 
 #: frontend/src/metabase/admin/upsells/UpsellCloud.tsx:32
 msgid "All your dashboards and questions will be copied to your Cloud instance."
@@ -7938,7 +7938,7 @@ msgstr "همهٔ داشبوردها و سؤال‌های شما به نمونه�
 
 #: frontend/src/metabase/admin/upsells/UpsellCloud.tsx:33
 msgid "Get your first 14 days of Metabase Cloud for free."
-msgstr "۱۴ روز اولِ Amara Cloud را رایگان دریافت کنید."
+msgstr "۱۴ روز اولِ AMARA Cloud را رایگان دریافت کنید."
 
 #: frontend/src/metabase/admin/upsells/UpsellEmailWhitelabel.tsx:23
 msgid "Whitelabel email notifications"
@@ -7950,7 +7950,7 @@ msgstr "یک نمونهٔ توسعه بگیرید"
 
 #: frontend/src/metabase/admin/upsells/UpsellDevInstances.tsx:28
 msgid "Test out code in staging in a separate Metabase instance before deploying to production."
-msgstr "قبل از دیپلوی به محیط عملیاتی، کد را در staging و در یک نمونهٔ جدا از Amara تست کنید."
+msgstr "قبل از دیپلوی به محیط عملیاتی، کد را در staging و در یک نمونهٔ جدا از AMARA تست کنید."
 
 #: frontend/src/metabase/admin/upsells/UpsellCustomViz.tsx:22
 msgid "Build your own visualizations"
@@ -7999,7 +7999,7 @@ msgstr "از مدیریت دستی افراد و گروه‌ها خسته شدی
 
 #: frontend/src/metabase/admin/upsells/UpsellSSO.tsx:39
 msgid "Metabase Pro and Enterprise plans include:"
-msgstr "پلن‌های Amara Pro و Enterprise شامل موارد زیر هستند:"
+msgstr "پلن‌های AMARA Pro و Enterprise شامل موارد زیر هستند:"
 
 #: frontend/src/metabase/admin/upsells/UpsellSSO.tsx:41
 msgid "SSO with SAML and JWT"
@@ -8007,7 +8007,7 @@ msgstr "SSO با SAML و JWT"
 
 #: frontend/src/metabase/admin/upsells/UpsellSSO.tsx:42
 msgid "Metabase group sync with SAML, JWT, and LDAP"
-msgstr "همگام‌سازی گروه‌های Amara با SAML، JWT و LDAP"
+msgstr "همگام‌سازی گروه‌های AMARA با SAML، JWT و LDAP"
 
 #: frontend/src/metabase/admin/upsells/UpsellSSO.tsx:43
 msgid "User provisioning with SCIM"
@@ -8016,7 +8016,7 @@ msgstr "پروویژن کردن کاربر با SCIM"
 #: frontend/src/metabase/admin/upsells/UpsellSdkLink.tsx:36
 #: frontend/src/metabase/admin/upsells/UpsellSdkLink.tsx:47
 msgid "upgrade to Metabase Pro"
-msgstr "ارتقا به Amara Pro"
+msgstr "ارتقا به AMARA Pro"
 
 #: frontend/src/metabase/admin/upsells/UpsellSemanticSearch.tsx:9
 msgid "Get this with Pro. Try for free."
@@ -8047,11 +8047,11 @@ msgstr "آپلودهای خود را مدیریت کنید"
 
 #: frontend/src/metabase/admin/upsells/UpsellWhitelabel.tsx:41
 msgid "Make Metabase look like you"
-msgstr "Amara را شبیه خودتان کنید"
+msgstr "AMARA را شبیه خودتان کنید"
 
 #: frontend/src/metabase/admin/upsells/UpsellWhitelabel.tsx:49
 msgid "Customize your internal or customer-facing analytics with your brand name, logo, colors, font and more, and hide giveaway Metabase elements."
-msgstr "تحلیل‌های داخلی یا مشتری‌محور را با نام برند، لوگو، رنگ‌ها، فونت و موارد دیگر شخصی‌سازی کنید و عناصر لو‌دهندهٔ Amara را مخفی کنید."
+msgstr "تحلیل‌های داخلی یا مشتری‌محور را با نام برند، لوگو، رنگ‌ها، فونت و موارد دیگر شخصی‌سازی کنید و عناصر لو‌دهندهٔ AMARA را مخفی کنید."
 
 #: frontend/src/metabase/api/utils/settings.ts:63
 #, javascript-format
@@ -8281,7 +8281,7 @@ msgstr "کلی"
 
 #: frontend/src/metabase/browse/models/EmptyStates/ModelsVideo.tsx:14
 msgid "Use Models in Metabase | Getting started with Metabase"
-msgstr "Use Models in Amara | Getting started with Amara"
+msgstr "Use Models in AMARA | Getting started with AMARA"
 
 #: frontend/src/metabase/browse/models/EmptyStates/ModelsVideo.tsx:28
 msgid "Browse models video thumbnail"
@@ -8578,7 +8578,7 @@ msgstr "روشن"
 
 #: frontend/src/metabase/common/components/CommunityLocalizationNotice/CommunityLocalizationNotice.tsx:18
 msgid "Some translations are created by the Metabase community, and might not be perfect."
-msgstr "بعضی ترجمه‌ها توسط جامعهٔ Amara ساخته شده‌اند و ممکن است بی‌نقص نباشند."
+msgstr "بعضی ترجمه‌ها توسط جامعهٔ AMARA ساخته شده‌اند و ممکن است بی‌نقص نباشند."
 
 #: frontend/src/metabase/common/components/CommunityLocalizationNotice/CommunityLocalizationNotice.tsx:19
 msgid "Some translations are created by the community, and might not be perfect."
@@ -9930,7 +9930,7 @@ msgstr "\"برنامه رومیزی\" را به عنوان نوع برنامه �
 
 #: frontend/src/metabase/databases/components/DatabaseCacheScheduleField/DatabaseCacheScheduleField.tsx:103
 msgid "When a user adds a new filter to a dashboard or a SQL question, Metabase will scan the field(s) mapped to that filter in order to show the list of selectable values."
-msgstr "هنگامی که کاربر یک <b>فیلتر</b> جدید به داشبورد یا یک پرسش SQL اضافه می‌کند، Amara فیلدی که به آن <b>فیلتر</b> نگاشت شده را <b>اسکن</b> می‌کند تا فهرست <b>مقادیر</b> قابل انتخاب را نمایش دهد."
+msgstr "هنگامی که کاربر یک <b>فیلتر</b> جدید به داشبورد یا یک پرسش SQL اضافه می‌کند، AMARA فیلدی که به آن <b>فیلتر</b> نگاشت شده را <b>اسکن</b> می‌کند تا فهرست <b>مقادیر</b> قابل انتخاب را نمایش دهد."
 
 #: frontend/src/metabase/databases/components/DatabaseConnectionSectionField/DatabaseConnectionSectionField.tsx:34
 msgid "Connection method"
@@ -9993,7 +9993,7 @@ msgstr "پایگاه داده نمونه برای تست"
 
 #: frontend/src/metabase/databases/components/DatabaseEngineList/DatabaseEngineList.tsx:232
 msgid "(by Metabase)"
-msgstr "(توسط Amara)"
+msgstr "(توسط AMARA)"
 
 #: frontend/src/metabase/databases/components/DatabaseEngineList/DatabaseEngineList.tsx:236
 msgid "Included"
@@ -10476,11 +10476,11 @@ msgstr "پنل مدیریت با دکمهٔ \"Invite someone\""
 
 #: frontend/src/metabase/home/components/Onboarding/Onboarding.tsx:290
 msgid "Don't be shy with invites. Metabase makes self-service analytics easy."
-msgstr "در دعوت کردن خجالت نکشید. Amara تحلیل‌های سلف‌سرویس را ساده می‌کند."
+msgstr "در دعوت کردن خجالت نکشید. AMARA تحلیل‌های سلف‌سرویس را ساده می‌کند."
 
 #: frontend/src/metabase/home/components/Onboarding/Onboarding.tsx:293
 msgid "Don't be shy with invites. Metabase Starter plan includes 5 users, and Pro includes 10 users without the need to pay additionally."
-msgstr "در دعوت کردن خجالت نکشید. پلن Starter در Amara شامل 5 کاربر است و Pro شامل 10 کاربر، بدون نیاز به پرداخت اضافه."
+msgstr "در دعوت کردن خجالت نکشید. پلن Starter در AMARA شامل 5 کاربر است و Pro شامل 10 کاربر، بدون نیاز به پرداخت اضافه."
 
 #: frontend/src/metabase/home/components/Onboarding/Onboarding.tsx:311
 msgid "Set up Single Sign-on"
@@ -10942,7 +10942,7 @@ msgstr "Ingested"
 
 #: frontend/src/metabase/metadata/components/DataSourceInput.tsx:62
 msgid "Metabase transform"
-msgstr "تبدیل Amara"
+msgstr "تبدیل AMARA"
 
 #: frontend/src/metabase/metadata/components/DataSourceInput.tsx:65
 msgid "Source data"
@@ -11233,7 +11233,7 @@ msgstr "سینک مجدد اسکیما"
 #: frontend/src/metabase/data-studio/data-model/components/SyncOptionsModal.tsx:49
 #: frontend/src/metabase/metadata/components/SyncOptionsModal/SyncOptionsModal.tsx:36
 msgid "If you’ve made changes to this table in the underlying database that aren’t showing up in Metabase yet, re-syncing the schema can fix that."
-msgstr "اگر در پایگاه دادهٔ زیرین این جدول تغییراتی داده‌اید که هنوز در Amara دیده نمی‌شوند، سینک مجدد اسکیما می‌تواند آن را درست کند."
+msgstr "اگر در پایگاه دادهٔ زیرین این جدول تغییراتی داده‌اید که هنوز در AMARA دیده نمی‌شوند، سینک مجدد اسکیما می‌تواند آن را درست کند."
 
 #: frontend/src/metabase/data-studio/data-model/components/SyncOptionsModal.tsx:64
 #: frontend/src/metabase/metadata/components/SyncOptionsModal/SyncOptionsModal.tsx:45
@@ -11243,7 +11243,7 @@ msgstr "اسکن مقادیر فیلد"
 #: frontend/src/metabase/data-studio/data-model/components/SyncOptionsModal.tsx:69
 #: frontend/src/metabase/metadata/components/SyncOptionsModal/SyncOptionsModal.tsx:49
 msgid "Metabase can scan the values in this table to enable checkbox filters in dashboards and questions."
-msgstr "Amara می‌تواند مقادیر این جدول را اسکن کند تا فیلترهای چک‌باکسی در داشبوردها و سؤال‌ها فعال شوند."
+msgstr "AMARA می‌تواند مقادیر این جدول را اسکن کند تا فیلترهای چک‌باکسی در داشبوردها و سؤال‌ها فعال شوند."
 
 #: frontend/src/metabase/metadata/components/FieldSection/FieldSection.tsx:57
 #: frontend/src/metabase/metadata/components/TableFieldList/TableFieldList.tsx:35
@@ -11573,7 +11573,7 @@ msgstr "استودیوی داده"
 #: frontend/src/metabase/nav/components/AppSwitcher/AppSwitcher.tsx:225
 #: frontend/src/metabase/nav/containers/MainNavbar/MainNavbarContainer/GettingStartedSection.tsx:62
 msgid "How to use Metabase"
-msgstr "چطور از Amara استفاده کنیم"
+msgstr "چطور از AMARA استفاده کنیم"
 
 #: frontend/src/metabase/nav/components/AppSwitcher/AppSwitcher.tsx:231
 msgid "Keyboard shortcuts"
@@ -11596,7 +11596,7 @@ msgstr "خروج"
 
 #: frontend/src/metabase/nav/components/ReadOnlyBanner/ReadOnlyBanner.tsx:13
 msgid "Metabase is under maintenance and is operating in read-only mode. It should only take up to 30 minutes."
-msgstr "Amara در حال نگهداری است و در حالت فقط‌خواندنی کار می‌کند. این وضعیت حداکثر تا 30 دقیقه طول می‌کشد."
+msgstr "AMARA در حال نگهداری است و در حالت فقط‌خواندنی کار می‌کند. این وضعیت حداکثر تا 30 دقیقه طول می‌کشد."
 
 #: frontend/src/metabase/nav/components/TrialBanner/TrialBanner.tsx:28
 msgid "Today is the last day of your trial."
@@ -11619,7 +11619,7 @@ msgstr "اکتشاف ویژگی‌های پرداختی"
 
 #: frontend/src/metabase/nav/components/WhatsNewNotification/WhatsNewNotification.tsx:70
 msgid "Metabase has been updated"
-msgstr "Amara به‌روزرسانی شد"
+msgstr "AMARA به‌روزرسانی شد"
 
 #: frontend/src/metabase/nav/components/WhatsNewNotification/WhatsNewNotification.tsx:80
 msgid "See what's new"
@@ -12711,7 +12711,7 @@ msgstr "ارسال دعوتنامه"
 
 #: frontend/src/metabase/setup/components/LicenseTokenStep/LicenseTokenForm.tsx:44
 msgid "Try Metabase for free"
-msgstr "Amara را رایگان امتحان کنید"
+msgstr "AMARA را رایگان امتحان کنید"
 
 #: frontend/src/metabase/setup/components/LicenseTokenStep/LicenseTokenForm.tsx:57
 msgid "Token"
@@ -12727,7 +12727,7 @@ msgstr "اطلاعات جزئیات توکن"
 
 #: frontend/src/metabase/setup/components/LicenseTokenStep/LicenseTokenForm.tsx:81
 msgid "Find your license token in the subscription confirmation email from Metabase"
-msgstr "توکن لایسنس خود را در ایمیل تایید اشتراک از Amara پیدا کنید"
+msgstr "توکن لایسنس خود را در ایمیل تایید اشتراک از AMARA پیدا کنید"
 
 #: frontend/src/metabase/admin/settings/components/LicenseInput/LicenseInput.tsx:55
 #: frontend/src/metabase/setup/components/LicenseTokenStep/LicenseTokenForm.tsx:97
@@ -12765,11 +12765,11 @@ msgstr "هنوز مطمئن نیستم"
 #: frontend/src/metabase/setup/components/UsageQuestionStep/UsageQuestionStep.tsx:49
 #: frontend/src/metabase/setup/components/UsageQuestionStep/UsageQuestionStep.tsx:60
 msgid "What will you use Metabase for?"
-msgstr "Amara را برای چه چیزی استفاده می‌کنید؟"
+msgstr "AMARA را برای چه چیزی استفاده می‌کنید؟"
 
 #: frontend/src/metabase/setup/components/UsageQuestionStep/UsageQuestionStep.tsx:70
 msgid "Let us know your plans with Metabase so that we can best guide you"
-msgstr "برنامه‌تان برای Amara را بگویید تا بهتر راهنمایی‌تان کنیم"
+msgstr "برنامه‌تان برای AMARA را بگویید تا بهتر راهنمایی‌تان کنیم"
 
 #: frontend/src/metabase/setup/components/UsageQuestionStep/UsageQuestionStep.tsx:76
 msgid "Self-service analytics for my own company"
@@ -14051,7 +14051,7 @@ msgstr "این کار هر اشتراک داشبورد یا هشداری را ک
 
 #: enterprise/frontend/src/metabase-enterprise/audit_app/containers/UnsubscribeUserModal/UnsubscribeUserModal.tsx:69
 msgid "This does not affect email distribution lists that are managed outside of Metabase."
-msgstr "این روی لیست‌های توزیع ایمیل که خارج از Amara مدیریت می‌شوند تأثیری ندارد."
+msgstr "این روی لیست‌های توزیع ایمیل که خارج از AMARA مدیریت می‌شوند تأثیری ندارد."
 
 #: enterprise/frontend/src/metabase-enterprise/audit_app/metabot-analytics/nav.tsx:26
 #: enterprise/frontend/src/metabase-enterprise/audit_app/metabot-analytics/nav.tsx:48
@@ -14376,7 +14376,7 @@ msgstr "پیکربندی ارائه دهنده هویت شما (IdP)"
 
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:116
 msgid "Your identity provider will need the following info about Metabase."
-msgstr "ارائه دهنده هویت شما به اطلاعات زیر درباره Amara نیاز دارد."
+msgstr "ارائه دهنده هویت شما به اطلاعات زیر درباره AMARA نیاز دارد."
 
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:121
 msgid "URL the IdP should redirect back to"
@@ -14408,11 +14408,11 @@ msgstr "مولفه‌ی نام خانوادگی کاربر"
 
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:171
 msgid "Tell Metabase about your identity provider"
-msgstr "به Amara درباره ارائه‌دهنده هویت خود اطلاع دهید"
+msgstr "به AMARA درباره ارائه‌دهنده هویت خود اطلاع دهید"
 
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:175
 msgid "Metabase will need the following info about your provider."
-msgstr "Amara به اطلاعات زیر در مورد ارائه‌دهنده شما نیاز دارد."
+msgstr "AMARA به اطلاعات زیر در مورد ارائه‌دهنده شما نیاز دارد."
 
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:180
 msgid "SAML identity provider URL"
@@ -14453,7 +14453,7 @@ msgstr "alias keystore SAML"
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:250
 msgid "To enable this, you'll need to create mappings to tell Metabase which group(s) your users should\n"
 "be added to based on the SSO group they're in."
-msgstr "برای فعال کردن این مورد، نیاز به ایجاد نگاشت‌ها خواهید داشت تا به Amara بگویید کدام گروه (ها) باید کاربران شما بر اساس گروه SSO که در آن هستند اضافه شوند."
+msgstr "برای فعال کردن این مورد، نیاز به ایجاد نگاشت‌ها خواهید داشت تا به AMARA بگویید کدام گروه (ها) باید کاربران شما بر اساس گروه SSO که در آن هستند اضافه شوند."
 
 #: enterprise/frontend/src/metabase-enterprise/auth/components/SettingsSAMLForm/SettingsSAMLForm.tsx:330
 msgid "You cannot enable SAML user provisioning while user provisioning is [managed by SCIM]"
@@ -14740,7 +14740,7 @@ msgstr "باندل: {0}"
 #: enterprise/frontend/src/metabase-enterprise/custom_viz/components/CustomVizPluginSummary.tsx:33
 #, javascript-format
 msgid "Requires Metabase {0}"
-msgstr "نیازمند Amara {0}"
+msgstr "نیازمند AMARA {0}"
 
 #: enterprise/frontend/src/metabase-enterprise/custom_viz/components/EditDevCustomVizForm.tsx:88
 msgid "Pending"
@@ -14873,7 +14873,7 @@ msgstr "فعال‌سازی تعبیه‌سازیِ کامل اپ"
 
 #: enterprise/frontend/src/metabase-enterprise/embedding/components/InteractiveEmbeddingSettingsCard.tsx:20
 msgid "Embed the full Metabase application or individual pages into your app. Best for complex, BI-focused scenarios where you want to embed all of Metabase's capabilities into your app. If you are looking for stability of UX, flexibility or control, or don't have a complex use case that requires a full-blown BI solution, we recommend using Modular embedding instead."
-msgstr "کل اپلیکیشن Amara یا صفحات جداگانه را داخل اپ خود جاسازی کنید. بهترین گزینه برای سناریوهای پیچیده و BIمحور که می‌خواهید همهٔ قابلیت‌های Amara را داخل اپ خود جاسازی کنید. اگر به دنبال پایداری UX، انعطاف‌پذیری یا کنترل هستید، یا use case پیچیده‌ای ندارید که به یک راهکار BI کامل نیاز داشته باشد، پیشنهاد می‌کنیم به‌جای آن از Modular embedding استفاده کنید."
+msgstr "کل اپلیکیشن AMARA یا صفحات جداگانه را داخل اپ خود جاسازی کنید. بهترین گزینه برای سناریوهای پیچیده و BIمحور که می‌خواهید همهٔ قابلیت‌های AMARA را داخل اپ خود جاسازی کنید. اگر به دنبال پایداری UX، انعطاف‌پذیری یا کنترل هستید، یا use case پیچیده‌ای ندارید که به یک راهکار BI کامل نیاز داشته باشد، پیشنهاد می‌کنیم به‌جای آن از Modular embedding استفاده کنید."
 
 #: enterprise/frontend/src/metabase-enterprise/feature_level_permissions/permission-management/download-permission.ts:53
 msgid "10 thousand rows"
@@ -15245,7 +15245,7 @@ msgstr "این ویژگی از مستأجر به ارث می‌رسد، اما �
 
 #: enterprise/frontend/src/metabase-enterprise/security_center/components/AdvisoryList/AdvisoryList.tsx:61
 msgid "No known security issues that impact your Metabase version"
-msgstr "هیچ مشکل امنیتی شناخته‌شده‌ای که روی نسخهٔ Amara شما اثر بگذارد وجود ندارد"
+msgstr "هیچ مشکل امنیتی شناخته‌شده‌ای که روی نسخهٔ AMARA شما اثر بگذارد وجود ندارد"
 
 #: enterprise/frontend/src/metabase-enterprise/security_center/components/AdvisoryList/AdvisoryList.tsx:76
 msgid "Issues impacting your instance"
@@ -15314,7 +15314,7 @@ msgstr "مرکز امنیت"
 #: enterprise/frontend/src/metabase-enterprise/security_center/components/SecurityCenterBanner/SecurityCenterBanner.tsx:76
 #, javascript-format
 msgid "Please configure notification channels in the {0} so that you get notified about security vulnerabilities in your Metabase instance"
-msgstr "لطفاً کانال‌های اعلان را در {0} پیکربندی کنید تا دربارهٔ آسیب‌پذیری‌های امنیتی در نمونه Amara خود اعلان دریافت کنید"
+msgstr "لطفاً کانال‌های اعلان را در {0} پیکربندی کنید تا دربارهٔ آسیب‌پذیری‌های امنیتی در نمونه AMARA خود اعلان دریافت کنید"
 
 #: enterprise/frontend/src/metabase-enterprise/security_center/components/SecurityCenterPage/SecurityCenterPage.tsx:78
 msgid "Checking for security advisories…"
@@ -15833,7 +15833,7 @@ msgstr "توکن را دوباره تولید می‌کنید؟"
 
 #: enterprise/frontend/src/metabase-enterprise/user_provisioning/components/UserProvisioningModals.tsx:91
 msgid "This will delete the existing token. You'll need to update your identity provider with the new token, otherwise people won't be able to log in to your Metabase."
-msgstr "این توکن موجود را حذف می‌کند. باید ارائه‌دهندهٔ هویت خود را با توکن جدید به‌روزرسانی کنید، وگرنه افراد نمی‌توانند وارد Amara شما شوند."
+msgstr "این توکن موجود را حذف می‌کند. باید ارائه‌دهندهٔ هویت خود را با توکن جدید به‌روزرسانی کنید، وگرنه افراد نمی‌توانند وارد AMARA شما شوند."
 
 #: enterprise/frontend/src/metabase-enterprise/user_provisioning/components/UserProvisioningModals.tsx:92
 msgid "Regenerate now"
@@ -15906,7 +15906,7 @@ msgstr "این صفحه"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/HelpLinkSettings/HelpLinkSettings.tsx:93
 msgid "Link to Metabase help"
-msgstr "لینک به راهنمای Amara"
+msgstr "لینک به راهنمای AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/HelpLinkSettings/HelpLinkSettings.tsx:94
 msgid "Hide it"
@@ -15936,7 +15936,7 @@ msgstr "مقصد سفارشی صفحهٔ فرود"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/MetabaseLinksToggleDescription.tsx:29
 msgid "This affects all links in the product experience (outside of the admin panel) that point to Metabase.com URLs."
-msgstr "این روی همهٔ لینک‌های تجربهٔ محصول (خارج از پنل مدیریت) که به URLهای Amara.com اشاره می‌کنند اثر می‌گذارد."
+msgstr "این روی همهٔ لینک‌های تجربهٔ محصول (خارج از پنل مدیریت) که به URLهای AMARA.com اشاره می‌کنند اثر می‌گذارد."
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/MetabaseLinksToggleDescription.tsx:32
 msgid "When hidden, your users will lose the ability to troubleshoot and learn how to use features such as the Query and SQL Editors, among others."
@@ -15957,7 +15957,7 @@ msgstr "پالت رنگ"
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelBrandingSettingsPage.tsx:28
 #: metabase/appearance/settings.clj:100
 msgid "Choose the colors used in the user interface throughout Metabase and others specifically for the charts. You need to refresh your browser to see your changes take effect."
-msgstr "رنگ‌هایی را که در سراسر رابط کاربری Amara استفاده می‌شوند و رنگ‌های مخصوص نمودارها را انتخاب کنید. برای اعمال شدن تغییرات باید مرورگرتان را refresh کنید."
+msgstr "رنگ‌هایی را که در سراسر رابط کاربری AMARA استفاده می‌شوند و رنگ‌های مخصوص نمودارها را انتخاب کنید. برای اعمال شدن تغییرات باید مرورگرتان را refresh کنید."
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelBrandingSettingsPage.tsx:35
 msgid "Icons"
@@ -15984,11 +15984,11 @@ msgstr "فونت‌ها"
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:19
 #: frontend/src/metabase/admin/settings/components/SettingsNav/SettingsNav.tsx:102
 msgid "Conceal Metabase"
-msgstr "پنهان‌کردن Amara"
+msgstr "پنهان‌کردن AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:20
 msgid "Configure your instance to conceal references to Metabase and customize illustrations."
-msgstr "نمونهٔ خود را طوری پیکربندی کنید که ارجاع‌ها به Amara پنهان شوند و ایلاستریشن‌ها را سفارشی کنید."
+msgstr "نمونهٔ خود را طوری پیکربندی کنید که ارجاع‌ها به AMARA پنهان شوند و ایلاستریشن‌ها را سفارشی کنید."
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:22
 msgid "Names"
@@ -16004,19 +16004,19 @@ msgstr "مستندات و ارجاعات"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:34
 msgid "Show links and references to Metabase"
-msgstr "نمایش لینک‌ها و ارجاعات به Amara"
+msgstr "نمایش لینک‌ها و ارجاعات به AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:38
 msgid "Control the display of Metabase documentation and Metabase references in your instance."
-msgstr "نمایش مستندات Amara و ارجاعات Amara را در نمونهٔ شما کنترل می‌کند."
+msgstr "نمایش مستندات AMARA و ارجاعات AMARA را در نمونهٔ شما کنترل می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:46
 msgid "Metabase illustrations"
-msgstr "ایلاستریشن‌های Amara"
+msgstr "ایلاستریشن‌های AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:47
 msgid "Customize each of the illustrations in Metabase"
-msgstr "هرکدام از تصویرسازی‌ها در Amara را سفارشی کنید"
+msgstr "هرکدام از تصویرسازی‌ها در AMARA را سفارشی کنید"
 
 #: enterprise/frontend/src/metabase-enterprise/whitelabel/components/WhiteLabelConcealSettingsPage.tsx:53
 msgid "Login and unsubscribe pages"
@@ -16213,12 +16213,12 @@ msgstr "اتصال و همگام‌سازی"
 
 #: frontend/src/metabase/admin/databases/components/DatabaseConnectionInfoSection/DatabaseConnectionInfoSection.tsx:57
 msgid "Manage details about the database connection and when Metabase ingests new data."
-msgstr "جزئیات اتصال پایگاه داده و زمان ingest داده‌های جدید توسط Amara را مدیریت کنید."
+msgstr "جزئیات اتصال پایگاه داده و زمان ingest داده‌های جدید توسط AMARA را مدیریت کنید."
 
 #: frontend/src/metabase/admin/databases/components/DatabaseConnectionInfoSection/DatabaseConnectionInfoSection.tsx:64
 #: frontend/src/metabase/admin/databases/components/DatabaseEditConnectionForm.tsx:110
 msgid "This database is managed by Metabase Cloud and cannot be modified."
-msgstr "این پایگاه داده توسط Amara Cloud مدیریت می‌شود و قابل تغییر نیست."
+msgstr "این پایگاه داده توسط AMARA Cloud مدیریت می‌شود و قابل تغییر نیست."
 
 #: frontend/src/metabase/admin/databases/components/DatabaseConnectionInfoSection/DatabaseConnectionInfoSection.tsx:82
 msgid "Sync database schema"
@@ -16306,7 +16306,7 @@ msgstr "قابلیت‌های مدل"
 
 #: frontend/src/metabase/admin/databases/components/DatabaseModelFeaturesSection/DatabaseModelFeaturesSection.tsx:55
 msgid "Choose whether to enable features related to Metabase models. These will often require a write connection."
-msgstr "انتخاب کنید آیا قابلیت‌های مرتبط با مدل‌های Amara فعال شود یا نه. این‌ها اغلب به اتصال نوشتن نیاز دارند."
+msgstr "انتخاب کنید آیا قابلیت‌های مرتبط با مدل‌های AMARA فعال شود یا نه. این‌ها اغلب به اتصال نوشتن نیاز دارند."
 
 #: frontend/src/metabase/admin/databases/components/DatabaseList/DatabaseList.tsx:58
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/ConnectionImpersonationStepContent.tsx:84
@@ -16497,16 +16497,16 @@ msgstr "اعضا را اضافه کنید"
 #, javascript-format
 msgid "All users belong to the {0} group and can't be removed from it. Setting permissions for this group is a great way to\n"
 "make sure you know what new Metabase users will be able to see."
-msgstr "همهٔ کاربران عضو گروه {0} هستند و نمی‌توان آن‌ها را از آن حذف کرد. تنظیم دسترسی‌ها برای این گروه راه خوبی است برای اینکه مطمئن شوید می‌دانید کاربران جدید Amara چه چیزهایی را خواهند دید."
+msgstr "همهٔ کاربران عضو گروه {0} هستند و نمی‌توان آن‌ها را از آن حذف کرد. تنظیم دسترسی‌ها برای این گروه راه خوبی است برای اینکه مطمئن شوید می‌دانید کاربران جدید AMARA چه چیزهایی را خواهند دید."
 
 #: frontend/src/metabase/admin/people/components/GroupDetail.tsx:182
 msgid "This is a special group whose members can see everything in the Metabase instance, and who can access and make changes to the\n"
 "settings in the Admin Panel, including changing permissions! So, add people to this group with care."
-msgstr "این یک گروه ویژه است که اعضایش می‌توانند همه‌چیز را در نمونهٔ Amara ببینند، و می‌توانند به تنظیمات پنل مدیریت دسترسی داشته باشند و در آن تغییر ایجاد کنند، از جمله تغییر دسترسی‌ها! پس افراد را با احتیاط به این گروه اضافه کنید."
+msgstr "این یک گروه ویژه است که اعضایش می‌توانند همه‌چیز را در نمونهٔ AMARA ببینند، و می‌توانند به تنظیمات پنل مدیریت دسترسی داشته باشند و در آن تغییر ایجاد کنند، از جمله تغییر دسترسی‌ها! پس افراد را با احتیاط به این گروه اضافه کنید."
 
 #: frontend/src/metabase/admin/people/components/GroupDetail.tsx:186
 msgid "To make sure you don't get locked out of Metabase, there always has to be at least one user in this group."
-msgstr "برای اینکه مطمئن شوید از Amara بیرون انداخته نمی‌شوید، همیشه باید حداقل یک کاربر در این گروه باشد."
+msgstr "برای اینکه مطمئن شوید از AMARA بیرون انداخته نمی‌شوید، همیشه باید حداقل یک کاربر در این گروه باشد."
 
 #: enterprise/frontend/src/metabase-enterprise/transforms-inspector/pages/TransformInspectPage/components/LensSections/GenericSummarySections/components/FieldInfoSection/utils.tsx:78
 #: frontend/src/metabase/admin/people/components/GroupMembersTable/GroupMembersTable.tsx:59
@@ -16788,7 +16788,7 @@ msgstr "حداقل مدت زمان کوئری"
 
 #: frontend/src/metabase/admin/performance/components/StrategyForm.tsx:262
 msgid "Metabase will cache all saved questions with an average query execution time greater than this many seconds."
-msgstr "Amara همهٔ سؤال‌های ذخیره‌شده‌ای را که میانگین زمان اجرای کوئری‌شان بیشتر از این تعداد ثانیه باشد، کش می‌کند."
+msgstr "AMARA همهٔ سؤال‌های ذخیره‌شده‌ای را که میانگین زمان اجرای کوئری‌شان بیشتر از این تعداد ثانیه باشد، کش می‌کند."
 
 #: frontend/src/metabase/admin/performance/components/StrategyForm.tsx:272
 msgid "Multiplier"
@@ -17067,7 +17067,7 @@ msgstr "ممکن است مجوزهای دادهٔ شما متفاوت به نظ�
 #: frontend/src/metabase/admin/permissions/components/LegacyPermissionsModal/LegacyPermissionsModal.tsx:38
 #, javascript-format
 msgid "In Metabase 50, we split our data permissions into two new settings: {0} and {1}. Having separate settings for what people can view and what they can query makes data permissions more expressive and easier to reason about."
-msgstr "در Amara 50، مجوزهای داده را به دو تنظیم جدید تقسیم کردیم: {0} و {1}. داشتن تنظیم‌های جدا برای اینکه افراد چه چیزی را می‌توانند ببینند و چه چیزی را می‌توانند کوئری بزنند، مجوزهای داده را گویاتر می‌کند و درک آن را آسان‌تر می‌کند."
+msgstr "در AMARA 50، مجوزهای داده را به دو تنظیم جدید تقسیم کردیم: {0} و {1}. داشتن تنظیم‌های جدا برای اینکه افراد چه چیزی را می‌توانند ببینند و چه چیزی را می‌توانند کوئری بزنند، مجوزهای داده را گویاتر می‌کند و درک آن را آسان‌تر می‌کند."
 
 #: frontend/src/metabase/admin/permissions/components/LegacyPermissionsModal/LegacyPermissionsModal.tsx:44
 #: frontend/src/metabase/admin/permissions/selectors/data-permissions/permission-editor.tsx:341
@@ -17095,7 +17095,7 @@ msgstr "دسترسی‌ها ذخیره شوند؟"
 
 #: frontend/src/metabase/admin/permissions/constants/messages.ts:5
 msgid "Administrators always have the highest level of access to everything in Metabase."
-msgstr "مدیران همیشه بالاترین سطح دسترسی را به همه‌چیز در Amara دارند."
+msgstr "مدیران همیشه بالاترین سطح دسترسی را به همه‌چیز در AMARA دارند."
 
 #: frontend/src/metabase/admin/permissions/constants/messages.ts:8
 msgid "Data Analysts always have full access to edit table metadata."
@@ -17153,7 +17153,7 @@ msgstr "ممکن است گروه \"{0}\" به مجموعهٔ متفاوتی از
 
 #: frontend/src/metabase/admin/permissions/selectors/confirmations.tsx:83
 msgid "In a future release, if a group's View data access for a database (or any of its schemas or tables) is still set to No self-service (Deprecated), Metabase will automatically change that group's View data access for the entire database to Blocked. We'll be defaulting to Blocked, the least permissive View data access, to prevent any unintended access to data."
-msgstr "در یک نسخهٔ آینده، اگر دسترسی View data یک گروه برای یک پایگاه‌داده (یا هرکدام از schemaها یا tableهای آن) هنوز روی No self-service (Deprecated) باشد، Amara به‌صورت خودکار دسترسی View data آن گروه را برای کل پایگاه‌داده به Blocked تغییر می‌دهد. ما پیش‌فرض را روی Blocked، کم‌مجوزترین سطح View data، می‌گذاریم تا از هرگونه دسترسی ناخواسته به داده جلوگیری شود."
+msgstr "در یک نسخهٔ آینده، اگر دسترسی View data یک گروه برای یک پایگاه‌داده (یا هرکدام از schemaها یا tableهای آن) هنوز روی No self-service (Deprecated) باشد، AMARA به‌صورت خودکار دسترسی View data آن گروه را برای کل پایگاه‌داده به Blocked تغییر می‌دهد. ما پیش‌فرض را روی Blocked، کم‌مجوزترین سطح View data، می‌گذاریم تا از هرگونه دسترسی ناخواسته به داده جلوگیری شود."
 
 #: frontend/src/metabase/admin/permissions/selectors/confirmations.tsx:106
 msgid "Groups with a database, schema, or table set to Blocked can't view native queries on this database."
@@ -17233,11 +17233,11 @@ msgstr "database"
 
 #: frontend/src/metabase/admin/permissions/selectors/confirmations.tsx:246
 msgid "This schema contains one or more tables with “Blocked” permissions, which prevents access to the query builder. To grant Create query permissions for this schema, Metabase will also change the View data permissions on this schema to “Can view”."
-msgstr "این schema شامل یک یا چند table با مجوزهای «Blocked» است، که مانع دسترسی به سازندهٔ کوئری می‌شود. برای دادن مجوز Create query برای این schema، Amara همچنین مجوزهای View data را روی این schema به «Can view» تغییر می‌دهد."
+msgstr "این schema شامل یک یا چند table با مجوزهای «Blocked» است، که مانع دسترسی به سازندهٔ کوئری می‌شود. برای دادن مجوز Create query برای این schema، AMARA همچنین مجوزهای View data را روی این schema به «Can view» تغییر می‌دهد."
 
 #: frontend/src/metabase/admin/permissions/selectors/confirmations.tsx:247
 msgid "This database contains one or more schemas and tables with “Blocked” permissions, which prevents access to the query builder. To grant Create query permissions for this database, Metabase will also change the View data permissions on this database to “Can view”."
-msgstr "این پایگاه‌داده شامل یک یا چند schema و table با مجوزهای «Blocked» است، که مانع دسترسی به سازندهٔ کوئری می‌شود. برای دادن مجوز Create query برای این پایگاه‌داده، Amara همچنین مجوزهای View data را روی این پایگاه‌داده به «Can view» تغییر می‌دهد."
+msgstr "این پایگاه‌داده شامل یک یا چند schema و table با مجوزهای «Blocked» است، که مانع دسترسی به سازندهٔ کوئری می‌شود. برای دادن مجوز Create query برای این پایگاه‌داده، AMARA همچنین مجوزهای View data را روی این پایگاه‌داده به «Can view» تغییر می‌دهد."
 
 #: frontend/src/metabase/admin/permissions/selectors/confirmations.tsx:249
 #, javascript-format
@@ -17265,7 +17265,7 @@ msgstr "(مسیریابی پایگاه داده فعال است)"
 #: frontend/src/metabase/admin/settings/auth/components/GoogleAuthForm/GoogleAuthForm.tsx:86
 #: frontend/src/metabase/admin/settings/auth/containers/GoogleAuthCard/GoogleAuthCard.tsx:34
 msgid "Allows users with existing Metabase accounts to login with a Google account that matches their email address in addition to their Metabase username and password."
-msgstr "به کاربران دارای حساب Amara اجازه می‌دهد علاوه بر نام کاربری و رمز عبور Amara، با یک حساب Google که با آدرس ایمیلشان مطابقت دارد وارد شوند."
+msgstr "به کاربران دارای حساب AMARA اجازه می‌دهد علاوه بر نام کاربری و رمز عبور AMARA، با یک حساب Google که با آدرس ایمیلشان مطابقت دارد وارد شوند."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingLegaleseModal/EmbeddingLegaleseModal.tsx:34
 #: frontend/src/metabase/public/components/widgets/LegaleseStep/LegaleseStep.tsx:29
@@ -17275,12 +17275,12 @@ msgstr "اول کمی متن حقوقی"
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingLegaleseModal/EmbeddingLegaleseModal.tsx:45
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/EnableEmbeddingCard.tsx:193
 msgid "Sharing Metabase accounts is a security risk. Even if you filter data on the client side, each user could use their token to view any data visible to that shared user account."
-msgstr "اشتراک‌گذاری حساب‌های Amara یک ریسک امنیتی است. حتی اگر داده‌ها را سمت کلاینت فیلتر کنید، هر کاربر می‌تواند با توکن خودش هر داده‌ای را که برای آن حسابِ مشترک قابل مشاهده است ببیند."
+msgstr "اشتراک‌گذاری حساب‌های AMARA یک ریسک امنیتی است. حتی اگر داده‌ها را سمت کلاینت فیلتر کنید، هر کاربر می‌تواند با توکن خودش هر داده‌ای را که برای آن حسابِ مشترک قابل مشاهده است ببیند."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingLegaleseModal/EmbeddingLegaleseModal.tsx:48
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/EnableEmbeddingCard.tsx:198
 msgid "That, and we consider shared accounts to be unfair usage. Fair usage involves giving each end-user of the embedded analytics their own Metabase account."
-msgstr "ضمن اینکه، ما حساب‌های اشتراکی را استفادهٔ ناعادلانه می‌دانیم. استفادهٔ منصفانه یعنی هر کاربر نهاییِ تحلیل‌های تعبیه‌شده، حساب Amara خودش را داشته باشد."
+msgstr "ضمن اینکه، ما حساب‌های اشتراکی را استفادهٔ ناعادلانه می‌دانیم. استفادهٔ منصفانه یعنی هر کاربر نهاییِ تحلیل‌های تعبیه‌شده، حساب AMARA خودش را داشته باشد."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingLegaleseModal/EmbeddingLegaleseModal.tsx:56
 msgid "Decline and go back"
@@ -17295,12 +17295,12 @@ msgstr "موافقت و ادامه"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingLegaleseModal/EmbeddingLegaleseModal.tsx:73
 msgid "When using the Embedded analytics SDK for React, each end user should have their own Metabase account."
-msgstr "هنگام استفاده از SDK تحلیل‌های تعبیه‌شده برای React، هر کاربر نهایی باید حساب Amara خودش را داشته باشد."
+msgstr "هنگام استفاده از SDK تحلیل‌های تعبیه‌شده برای React، هر کاربر نهایی باید حساب AMARA خودش را داشته باشد."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingLegaleseModal/EmbeddingLegaleseModal.tsx:78
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/EnableEmbeddingCard.tsx:188
 msgid "When using modular embedding, each end user must have their own Metabase account."
-msgstr "هنگام استفاده از تعبیه‌سازی ماژولار، هر کاربر نهایی باید حساب Amara خودش را داشته باشد."
+msgstr "هنگام استفاده از تعبیه‌سازی ماژولار، هر کاربر نهایی باید حساب AMARA خودش را داشته باشد."
 
 #: frontend/src/metabase/admin/settings/components/Email/BaseSMTPConnectionForm.tsx:130
 msgid "Error clearing email settings"
@@ -17498,7 +17498,7 @@ msgstr "با فعال‌کردن آپلود به پایگاه داده نمون�
 
 #: frontend/src/metabase/admin/settings/components/UploadSettings/UploadSettingsForm.tsx:299
 msgid "Additionally, you acknowledge and agree that the ability to upload to the Sample Database is provided “as is” and without warranty of any kind, and Metabase disclaims all warranties, express or implied, and all liability in connection with the uploads to the Sample Database or the data stored within it."
-msgstr "علاوه بر این، شما تأیید و قبول می‌کنید که امکان آپلود به پایگاه داده نمونه «همان‌طور که هست» و بدون هیچ‌گونه ضمانتی ارائه می‌شود و Amara همهٔ ضمانت‌ها، صریح یا ضمنی، و هرگونه مسئولیت مرتبط با آپلودها به پایگاه داده نمونه یا داده‌های ذخیره‌شده در آن را سلب می‌کند."
+msgstr "علاوه بر این، شما تأیید و قبول می‌کنید که امکان آپلود به پایگاه داده نمونه «همان‌طور که هست» و بدون هیچ‌گونه ضمانتی ارائه می‌شود و AMARA همهٔ ضمانت‌ها، صریح یا ضمنی، و هرگونه مسئولیت مرتبط با آپلودها به پایگاه داده نمونه یا داده‌های ذخیره‌شده در آن را سلب می‌کند."
 
 #: frontend/src/metabase/admin/settings/components/UploadSettings/UploadSettingsForm.tsx:311
 msgid "Additional terms apply."
@@ -17511,7 +17511,7 @@ msgstr "هیچ‌کدام از پایگاه‌داده‌های شما با ای
 #: frontend/src/metabase/admin/settings/components/UploadSettings/UploadSettingsForm.tsx:324
 #, javascript-format
 msgid "Metabase currently supports {0} for uploads and needs a connection with write privileges."
-msgstr "Amara در حال حاضر {0} را برای آپلود پشتیبانی می‌کند و به یک اتصال با دسترسی نوشتن نیاز دارد."
+msgstr "AMARA در حال حاضر {0} را برای آپلود پشتیبانی می‌کند و به یک اتصال با دسترسی نوشتن نیاز دارد."
 
 #: frontend/src/metabase/admin/settings/components/UploadSettings/UploadSettingsForm.tsx:325
 msgid "Postgres, MySQL, and H2"
@@ -17572,7 +17572,7 @@ msgstr "یک اپ Slack بسازید و به آن وصل شوید."
 
 #: frontend/src/metabase/admin/settings/slack/SlackSetup.tsx:123
 msgid "First, **click the button below** to create your Slack App using the Metabase configuration."
-msgstr "اول، برای ساختن اپ Slack با پیکربندی Amara، **روی دکمه زیر کلیک کنید**."
+msgstr "اول، برای ساختن اپ Slack با پیکربندی AMARA، **روی دکمه زیر کلیک کنید**."
 
 #: frontend/src/metabase/admin/settings/slack/SlackSetup.tsx:127
 msgid "Create Slack App"
@@ -17877,7 +17877,7 @@ msgstr "لاگ‌های عیب‌یابی"
 
 #: frontend/src/metabase/admin/tools/components/TasksTabs/TasksTabs.tsx:45
 msgid "Trying to get to the bottom of something? This section shows logs of Metabase's background tasks, which can help shed light on what's going on."
-msgstr "دارید دنبال ریشهٔ ماجرا می‌گردید؟ این بخش لاگِ تسک‌های بک‌گراندِ Amara را نشان می‌دهد که می‌تواند کمک کند بفهمید چه خبر است."
+msgstr "دارید دنبال ریشهٔ ماجرا می‌گردید؟ این بخش لاگِ تسک‌های بک‌گراندِ AMARA را نشان می‌دهد که می‌تواند کمک کند بفهمید چه خبر است."
 
 #: frontend/src/metabase/admin/tools/components/ToolsApp.tsx:50
 #: frontend/src/metabase/admin/tools/components/ToolsUpsell/ToolsUpsell.tsx:8
@@ -18577,15 +18577,15 @@ msgstr "embedهای پیشرفته‌تر"
 
 #: frontend/src/metabase/common/components/upsells/UpsellEmbedHomepage.tsx:26
 msgid "Give your customers the full power of Metabase in your own app, with SSO, advanced permissions, customization, and more."
-msgstr "به مشتریان‌تان تمام قدرت Amara را در اپ خودتان بدهید؛ با SSO، مجوزهای پیشرفته، سفارشی‌سازی و بیشتر."
+msgstr "به مشتریان‌تان تمام قدرت AMARA را در اپ خودتان بدهید؛ با SSO، مجوزهای پیشرفته، سفارشی‌سازی و بیشتر."
 
 #: frontend/src/metabase/common/components/upsells/UpsellStorage.tsx:33
 msgid "Add Metabase Storage"
-msgstr "Amara Storage را اضافه کنید"
+msgstr "AMARA Storage را اضافه کنید"
 
 #: frontend/src/metabase/common/components/upsells/UpsellStorage.tsx:43
 msgid "Secure, fully managed by Metabase"
-msgstr "امن، کاملاً مدیریت‌شده توسط Amara"
+msgstr "امن، کاملاً مدیریت‌شده توسط AMARA"
 
 #: frontend/src/metabase/common/components/upsells/UpsellStorage.tsx:44
 #: frontend/src/metabase/nav/containers/MainNavbar/MainNavbarContainer/AddDataModal/Panels/AddDataModalEmptyStates.tsx:202
@@ -18607,7 +18607,7 @@ msgstr "ارتقای پلن"
 
 #: frontend/src/metabase/common/components/upsells/UpsellMetabaseBanner.tsx:26
 msgid "The “Powered by Metabase” banner appears on all guest embeds created with your current version. Upgrade to remove it (and customize a lot more)"
-msgstr "بنر «Powered by Amara» روی همهٔ جاسازی‌های مهمانی که با نسخهٔ فعلی شما ساخته شده‌اند نمایش داده می‌شود. برای حذف آن (و سفارشی‌سازی‌های خیلی بیشتر) ارتقا دهید"
+msgstr "بنر «Powered by AMARA» روی همهٔ جاسازی‌های مهمانی که با نسخهٔ فعلی شما ساخته شده‌اند نمایش داده می‌شود. برای حذف آن (و سفارشی‌سازی‌های خیلی بیشتر) ارتقا دهید"
 
 #: frontend/src/metabase/common/components/upsells/UpsellUsageAnalytics.tsx:37
 msgid "See who’s doing what, when"
@@ -18615,7 +18615,7 @@ msgstr "ببینید چه کسی چه کاری را چه زمانی انجام �
 
 #: frontend/src/metabase/common/components/upsells/UpsellUsageAnalytics.tsx:56
 msgid "Get detailed reports for tracking Metabase content usage, performance, and configuration changes."
-msgstr "گزارش‌های دقیق برای ردیابی میزان استفاده از محتوای Amara، عملکرد و تغییرات پیکربندی دریافت کنید."
+msgstr "گزارش‌های دقیق برای ردیابی میزان استفاده از محتوای AMARA، عملکرد و تغییرات پیکربندی دریافت کنید."
 
 #: frontend/src/metabase/common/hooks/use-before-unload/use-before-unload.ts:7
 msgid "You have unsaved changes."
@@ -19357,11 +19357,11 @@ msgstr "همگام‌سازی دوبارهٔ اسکیم‌ها"
 
 #: frontend/src/metabase/data-studio/data-model/components/SyncOptionsModal.tsx:51
 msgid "If you've made changes to these tables in the underlying databases that aren't showing up in Metabase yet, re-syncing the schemas can fix that."
-msgstr "اگر در پایگاه‌داده‌های زیربنایی تغییراتی در این جدول‌ها داده‌اید که هنوز در Amara نمایش داده نمی‌شود، re-sync کردن اسکیم‌ها می‌تواند آن را درست کند."
+msgstr "اگر در پایگاه‌داده‌های زیربنایی تغییراتی در این جدول‌ها داده‌اید که هنوز در AMARA نمایش داده نمی‌شود، re-sync کردن اسکیم‌ها می‌تواند آن را درست کند."
 
 #: frontend/src/metabase/data-studio/data-model/components/SyncOptionsModal.tsx:71
 msgid "Metabase can scan the values in these tables to enable checkbox filters in dashboards and questions."
-msgstr "Amara می‌تواند مقادیر این جدول‌ها را اسکن کند تا فیلترهای چک‌باکسی در داشبوردها و سؤال‌ها فعال شود."
+msgstr "AMARA می‌تواند مقادیر این جدول‌ها را اسکن کند تا فیلترهای چک‌باکسی در داشبوردها و سؤال‌ها فعال شود."
 
 #: frontend/src/metabase/data-studio/data-model/components/RescanTableFieldsButton/RescanTableFieldsButton.tsx:53
 msgid "Re-scan tables"
@@ -19692,7 +19692,7 @@ msgstr "تنظیمات Host و Port را بررسی کنید"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/ContactSupportButtonSection.tsx:24
 msgid "Reach out to Metabase engineers who can help with technical troubleshooting. Not your typical support agents."
-msgstr "با مهندسان Amara که می‌توانند در عیب‌یابی فنی کمک کنند تماس بگیرید. مثل agentهای پشتیبانی معمولی نیستند."
+msgstr "با مهندسان AMARA که می‌توانند در عیب‌یابی فنی کمک کنند تماس بگیرید. مثل agentهای پشتیبانی معمولی نیستند."
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/ContactSupportButtonSection.tsx:33
 msgid "Contact Support"
@@ -19708,7 +19708,7 @@ msgstr "همم، نتوانستیم به دیتابیس وصل شویم"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/DatabaseFormError.tsx:26
 msgid "Metabase tried, but couldn't connect"
-msgstr "Amara تلاش کرد، اما نتوانست وصل شود"
+msgstr "AMARA تلاش کرد، اما نتوانست وصل شود"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/DatabaseFormError.tsx:64
 msgid "More troubleshooting tips"
@@ -19716,7 +19716,7 @@ msgstr "نکات عیب‌یابی بیشتر"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/useTroubleshootingTips.tsx:40
 msgid "Metabase Cloud IP addresses"
-msgstr "آدرس‌های IP ‏Amara Cloud"
+msgstr "آدرس‌های IP ‏AMARA Cloud"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/useTroubleshootingTips.tsx:45
 msgid "SSL certificate"
@@ -19728,7 +19728,7 @@ msgstr "مجوزهای درست"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/useTroubleshootingTips.tsx:59
 msgid "Try allowing Metabase IP addresses"
-msgstr "اجازه دادن به آدرس‌های IP ‏Amara را امتحان کنید"
+msgstr "اجازه دادن به آدرس‌های IP ‏AMARA را امتحان کنید"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/useTroubleshootingTips.tsx:77
 msgid "Try using a secure connection (SSL)"
@@ -19736,7 +19736,7 @@ msgstr "از اتصال امن (SSL) استفاده کنید"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/useTroubleshootingTips.tsx:84
 msgid "Check Metabase user permissions"
-msgstr "مجوزهای کاربر Amara را بررسی کنید"
+msgstr "مجوزهای کاربر AMARA را بررسی کنید"
 
 #: frontend/src/metabase/databases/components/DatabaseFormError/useTroubleshootingTips.tsx:94
 msgid "Double-check connection settings"
@@ -19848,7 +19848,7 @@ msgstr "پیکربندی جعل هویت اتصال ناموفق بود"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/ConnectionImpersonationStepContent.tsx:75
 msgid "None of your databases support connection impersonation. Pick a different data segregation strategy in the previous step, or connect a new database in the Database settings before proceeding. Metabase connects to more than 15 popular databases."
-msgstr "هیچ‌کدام از پایگاه‌های دادهٔ شما از جعل هویت اتصال پشتیبانی نمی‌کنند. در مرحلهٔ قبلی یک استراتژی جداسازی دادهٔ دیگر انتخاب کنید، یا قبل از ادامه یک پایگاه دادهٔ جدید را در تنظیمات Database وصل کنید. Amara به بیش از 15 پایگاه دادهٔ محبوب متصل می‌شود."
+msgstr "هیچ‌کدام از پایگاه‌های دادهٔ شما از جعل هویت اتصال پشتیبانی نمی‌کنند. در مرحلهٔ قبلی یک استراتژی جداسازی دادهٔ دیگر انتخاب کنید، یا قبل از ادامه یک پایگاه دادهٔ جدید را در تنظیمات Database وصل کنید. AMARA به بیش از 15 پایگاه دادهٔ محبوب متصل می‌شود."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/ConnectionImpersonationStepContent.tsx:94
 msgid "Select one or more databases to be made visible to all tenant users. Tenant users will be able to create queries on these databases with the query builder. The tenant attribute database_role will be used to manage permissions. You will specify this attribute for each tenant when you create tenants."
@@ -19948,7 +19948,7 @@ msgstr "تعبیه‌سازی قدرتمندتر داشته باشید"
 #: frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalInitial.tsx:54
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/Common/EmbeddingUpsell.tsx:44
 msgid "Upgrade to Metabase Pro"
-msgstr "به Amara Pro ارتقا دهید"
+msgstr "به AMARA Pro ارتقا دهید"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/Common/EmbeddingUpsell.tsx:48
 msgid "Upgrade to get access to embeds with single sign-on, drill through, advanced theming, the modular embedding SDK, and more."
@@ -19960,7 +19960,7 @@ msgstr "مهمان"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/Authentication/AuthenticationSection.tsx:73
 msgid "Metabase account (SSO)"
-msgstr "حساب Amara (SSO)"
+msgstr "حساب AMARA (SSO)"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/EnableEmbeddedAnalyticsCard.tsx:27
 msgid "Failed to enable modular embedding"
@@ -20017,11 +20017,11 @@ msgid "When you embed charts or dashboards from Metabase in your\n"
 "General Public License that covers the rest of Metabase,\n"
 "provided you keep the Metabase logo and the \"Powered by\n"
 "Metabase\" visible on those embeds."
-msgstr "وقتی نمودارها یا داشبوردهای Amara را در\n"
+msgstr "وقتی نمودارها یا داشبوردهای AMARA را در\n"
 "اپلیکیشن خودتان جاسازی می‌کنید، آن اپلیکیشن مشمول\n"
-"مجوز Affero General Public License که بقیهٔ Amara را پوشش می‌دهد نیست،\n"
-"به شرطی که لوگوی Amara و عبارت \"Powered by\n"
-"Amara\" را روی آن جاسازی‌ها قابل مشاهده نگه دارید."
+"مجوز Affero General Public License که بقیهٔ AMARA را پوشش می‌دهد نیست،\n"
+"به شرطی که لوگوی AMARA و عبارت \"Powered by\n"
+"AMARA\" را روی آن جاسازی‌ها قابل مشاهده نگه دارید."
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/EnableEmbeddingCard.tsx:179
 #: frontend/src/metabase/public/components/widgets/LegaleseStep/LegaleseStep.tsx:48
@@ -20206,7 +20206,7 @@ msgstr "رفتار"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/SelectEmbedOptionsStep.tsx:275
 msgid "Available on Metabase Pro plans"
-msgstr "در پلن‌های Amara Pro در دسترس است"
+msgstr "در پلن‌های AMARA Pro در دسترس است"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/SelectEmbedOptionsStep.tsx:294
 msgid "See all properties in the docs"
@@ -20267,7 +20267,7 @@ msgstr "احراز هویت ناموفق بود. خروج از حساب و ور�
 
 #: frontend/src/metabase/embedding/mcp/utils/getMcpAppsUserAndSettingsFetchError.ts:34
 msgid "Could not connect to Metabase. Make sure this MCP client is enabled in AI settings and that Metabase is reachable."
-msgstr "اتصال به Amara برقرار نشد. مطمئن شوید این کلاینت MCP در تنظیمات هوش مصنوعی فعال است و Amara در دسترس است."
+msgstr "اتصال به AMARA برقرار نشد. مطمئن شوید این کلاینت MCP در تنظیمات هوش مصنوعی فعال است و AMARA در دسترس است."
 
 #: frontend/src/metabase/forms/components/FormSecretKey/SetupKeyModal.tsx:43
 msgid "Error generating secret key."
@@ -20329,7 +20329,7 @@ msgstr "تعبیه‌سازی ماژولار"
 
 #: frontend/src/metabase/home/components/EmbedHomepage/EmbedJsContent.tsx:51
 msgid "A JavaScript library built on top of Metabase’s modular embedding SDK that lets you embed individual components (charts, dashboards, query builder) using plain JS — no React setup required. You get per-component controls like drill-through, parameters, downloads, theming."
-msgstr "یک کتابخانهٔ JavaScript که روی SDK تعبیه‌سازی ماژولارِ Amara ساخته شده و به شما اجازه می‌دهد با JS ساده — بدون نیاز به راه‌اندازی React — کامپوننت‌های جداگانه (نمودارها، داشبوردها، سازندهٔ کوئری) را جاسازی کنید. کنترل‌های به‌ازای هر کامپوننت مثل کاوش عمیق، پارامترها، دانلودها و تمینگ را هم دارید."
+msgstr "یک کتابخانهٔ JavaScript که روی SDK تعبیه‌سازی ماژولارِ AMARA ساخته شده و به شما اجازه می‌دهد با JS ساده — بدون نیاز به راه‌اندازی React — کامپوننت‌های جداگانه (نمودارها، داشبوردها، سازندهٔ کوئری) را جاسازی کنید. کنترل‌های به‌ازای هر کامپوننت مثل کاوش عمیق، پارامترها، دانلودها و تمینگ را هم دارید."
 
 #: frontend/src/metabase/home/components/EmbedHomepage/FeedbackModal.tsx:43
 msgid "How can we improve embedding?"
@@ -20337,7 +20337,7 @@ msgstr "چطور می‌توانیم embedding را بهتر کنیم؟"
 
 #: frontend/src/metabase/home/components/EmbedHomepage/FeedbackModal.tsx:46
 msgid "Please let us know what happened. We’re always looking for ways to improve Metabase."
-msgstr "لطفاً بگویید چه اتفاقی افتاد. ما همیشه دنبال راه‌هایی برای بهتر کردن Amara هستیم."
+msgstr "لطفاً بگویید چه اتفاقی افتاد. ما همیشه دنبال راه‌هایی برای بهتر کردن AMARA هستیم."
 
 #: frontend/src/metabase/home/components/EmbedHomepage/FeedbackModal.tsx:51
 msgid "Tell us what happened"
@@ -20349,15 +20349,15 @@ msgstr "اگر می‌خواهید پیگیری کنیم، ایمیل‌تان �
 
 #: frontend/src/metabase/home/components/EmbedHomepage/EmbedHomepageView.tsx:103
 msgid "Embedding Metabase"
-msgstr "Embedding Amara"
+msgstr "Embedding AMARA"
 
 #: frontend/src/metabase/home/components/EmbedHomepage/EmbedHomepageView.tsx:106
 msgid "Give your customers secure, multi-tenant access to their data with as much (or as little) interactivity and tools to explore data as you want, with as much customization as you need. Embed dashboards, charts—even Metabase's query editor—with iframes or as individual React components."
-msgstr "به مشتریان‌تان دسترسی امنِ چند مستاجری به داده‌هایشان بدهید، با هرچقدر (کم یا زیاد) تعامل و ابزارهای کاوش داده که می‌خواهید، و با هر میزان سفارشی‌سازی که نیاز دارید. داشبوردها، نمودارها — حتی ادیتور کوئریِ Amara — را با iframeها یا به‌صورت کامپوننت‌های جداگانهٔ React جاسازی کنید."
+msgstr "به مشتریان‌تان دسترسی امنِ چند مستاجری به داده‌هایشان بدهید، با هرچقدر (کم یا زیاد) تعامل و ابزارهای کاوش داده که می‌خواهید، و با هر میزان سفارشی‌سازی که نیاز دارید. داشبوردها، نمودارها — حتی ادیتور کوئریِ AMARA — را با iframeها یا به‌صورت کامپوننت‌های جداگانهٔ React جاسازی کنید."
 
 #: frontend/src/metabase/home/components/EmbedHomepage/HeaderWithDismiss.tsx:17
 msgid "Get started with Embedding Metabase in your app"
-msgstr "با Embedding Amara در اپ‌تان شروع کنید"
+msgstr "با Embedding AMARA در اپ‌تان شروع کنید"
 
 #: frontend/src/metabase/home/components/EmbedHomepage/HeaderWithDismiss.tsx:24
 msgid "Hide these"
@@ -20382,7 +20382,7 @@ msgstr "اطلاعات بیشتری لازم دارید؟"
 #: frontend/src/metabase/home/components/EmbedHomepage/NeedMoreInfoCard.tsx:19
 #, javascript-format
 msgid "Explore the {0} and {1} to learn more about what Metabase offers."
-msgstr "برای اینکه بیشتر دربارهٔ چیزهایی که Amara ارائه می‌دهد بدانید، {0} و {1} را ببینید."
+msgstr "برای اینکه بیشتر دربارهٔ چیزهایی که AMARA ارائه می‌دهد بدانید، {0} و {1} را ببینید."
 
 #: frontend/src/metabase/home/components/EmbedHomepage/NeedMoreInfoCard.tsx:21
 msgid "embedding documentation"
@@ -20410,7 +20410,7 @@ msgstr "تعبیه‌سازی مهمان"
 
 #: frontend/src/metabase/home/components/EmbedHomepage/StaticEmbedContent.tsx:32
 msgid "Embed a dashboard in a 'Powered by Metabase' iframe with interactivity limited to filters and tooltips, and a few customization options. The iframe loads a Metabase URL secured with a signed JSON Web Token (JWT). Appears with \"Powered by Metabase\", on Open Source and Starter plans, with the option to remove on Pro and Enterprise. As the simplest form of embedding, you can add a dashboard into your app in a few minutes with just a snippet."
-msgstr "یک داشبورد را در یک iframe با «Powered by Amara» جاسازی کنید، با تعاملی که به فیلترها و tooltipها محدود شده و چند گزینهٔ سفارشی‌سازی. iframe یک URL از Amara را که با JSON Web Token (JWT) امضاشده امن شده لود می‌کند. با «Powered by Amara» در پلن‌های Open Source و Starter نمایش داده می‌شود، با امکان حذف در Pro و Enterprise. به‌عنوان ساده‌ترین شکل تعبیه‌سازی، می‌توانید در چند دقیقه فقط با یک snippet یک داشبورد را به اپ‌تان اضافه کنید."
+msgstr "یک داشبورد را در یک iframe با «Powered by AMARA» جاسازی کنید، با تعاملی که به فیلترها و tooltipها محدود شده و چند گزینهٔ سفارشی‌سازی. iframe یک URL از AMARA را که با JSON Web Token (JWT) امضاشده امن شده لود می‌کند. با «Powered by AMARA» در پلن‌های Open Source و Starter نمایش داده می‌شود، با امکان حذف در Pro و Enterprise. به‌عنوان ساده‌ترین شکل تعبیه‌سازی، می‌توانید در چند دقیقه فقط با یک snippet یک داشبورد را به اپ‌تان اضافه کنید."
 
 #: frontend/src/metabase/home/components/EmbedHomepage/StaticEmbedContent.tsx:46
 msgid "Embed an example dashboard"
@@ -20984,7 +20984,7 @@ msgstr "مدل چیست?"
 
 #: frontend/src/metabase/nav/components/AdminNavbar/AdminNavbar.tsx:89
 msgid "Metabase Admin"
-msgstr "Amara Admin"
+msgstr "AMARA Admin"
 
 #: frontend/src/metabase/nav/components/AdminNavbar/AdminNavbar.tsx:150
 msgid "Navigation links"
@@ -21930,11 +21930,11 @@ msgstr "ایمیل‌های کم‌تعداد دربارهٔ انتشارهای 
 
 #: frontend/src/metabase/setup/components/CompletedStep/CompletedStep.tsx:59
 msgid "Take me to Metabase"
-msgstr "من را به Amara ببر"
+msgstr "من را به AMARA ببر"
 
 #: frontend/src/metabase/setup/components/DataUsageStep/DataUsageStep.tsx:71
 msgid "In order to help us improve Metabase, we'd like to collect certain data about product usage."
-msgstr "به منظور کمک به ما در بهبود Amara، تمایل داریم برخی داده‌های خاص درباره استفاده از محصول را جمع‌آوری کنیم."
+msgstr "به منظور کمک به ما در بهبود AMARA، تمایل داریم برخی داده‌های خاص درباره استفاده از محصول را جمع‌آوری کنیم."
 
 #: frontend/src/metabase/setup/components/DataUsageStep/DataUsageStep.tsx:74
 msgid "Here's a full list of what we track and why."
@@ -21942,12 +21942,12 @@ msgstr "در اینجا یک لیست کامل از آنچه که ما پیگی�
 
 #: frontend/src/metabase/setup/components/DataUsageStep/DataUsageStep.tsx:84
 msgid "Allow Metabase to anonymously collect usage events"
-msgstr "به Amara اجازه دهید رویدادهای استفاده را به‌صورت ناشناس جمع‌آوری کند"
+msgstr "به AMARA اجازه دهید رویدادهای استفاده را به‌صورت ناشناس جمع‌آوری کند"
 
 #: frontend/src/metabase/setup/components/DataUsageStep/DataUsageStep.tsx:89
 #, javascript-format
 msgid "Metabase {0} collects anything about your data or question results."
-msgstr "Amara {0} هیچ چیزی دربارهٔ داده‌ها یا نتایج سؤال‌های شما جمع‌آوری می‌کند."
+msgstr "AMARA {0} هیچ چیزی دربارهٔ داده‌ها یا نتایج سؤال‌های شما جمع‌آوری می‌کند."
 
 #: frontend/src/metabase/setup/components/DataUsageStep/DataUsageStep.tsx:90
 msgid "never"
@@ -21992,7 +21992,7 @@ msgstr "زبان مورد نظر شما چیست?"
 
 #: frontend/src/metabase/setup/components/LanguageStep/LanguageStep.tsx:64
 msgid "This language will be used throughout Metabase and will be the default for new users."
-msgstr "این زبان در سراسر Amara استفاده خواهد شد و به‌عنوان پیش‌فرض برای کاربران جدید خواهد بود."
+msgstr "این زبان در سراسر AMARA استفاده خواهد شد و به‌عنوان پیش‌فرض برای کاربران جدید خواهد بود."
 
 #: frontend/src/metabase/setup/components/SetupHelp/SetupHelp.tsx:15
 msgid "If you feel stuck"
@@ -22049,7 +22049,7 @@ msgstr "در حال ذخیره"
 
 #: frontend/src/metabase/setup/components/WelcomePage/WelcomePage.tsx:42
 msgid "Welcome to Metabase"
-msgstr "به Amara خوش آمدید"
+msgstr "به AMARA خوش آمدید"
 
 #: frontend/src/metabase/setup/components/WelcomePage/WelcomePage.tsx:44
 msgid "Looks like everything is working."
@@ -23811,7 +23811,7 @@ msgstr "پیش‌نمایش دریافت نشد"
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationModal/ImpersonationModalView.tsx:81
 msgid "Map a Metabase user attribute to database users"
-msgstr "نگاشت یک ویژگی کاربر Amara به کاربران پایگاه‌داده"
+msgstr "نگاشت یک ویژگی کاربر AMARA به کاربران پایگاه‌داده"
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationModal/ImpersonationModalView.tsx:82
 msgid "Map a user attribute to database roles"
@@ -23819,11 +23819,11 @@ msgstr "نگاشت یک ویژگی کاربر به نقش‌های پایگاه�
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationModal/ImpersonationModalView.tsx:86
 msgid "When the person runs a query (including native queries), Metabase will impersonate the privileges of the database user you associate with the user attribute."
-msgstr "وقتی فرد یک کوئری اجرا می‌کند (از جمله کوئری‌های نیتیو)، Amara با جعل هویتِ کاربرِ پایگاه‌داده‌ای که به ویژگی کاربر وصل می‌کنید، دسترسی‌ها را اعمال می‌کند."
+msgstr "وقتی فرد یک کوئری اجرا می‌کند (از جمله کوئری‌های نیتیو)، AMARA با جعل هویتِ کاربرِ پایگاه‌داده‌ای که به ویژگی کاربر وصل می‌کنید، دسترسی‌ها را اعمال می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationModal/ImpersonationModalView.tsx:88
 msgid "When the person runs a query (including native queries), Metabase will impersonate the privileges of the database role you associate with the user attribute."
-msgstr "وقتی فرد یک کوئری اجرا می‌کند (از جمله کوئری‌های نیتیو)، Amara با جعل هویتِ نقشِ پایگاه‌داده‌ای که به ویژگی کاربر وصل می‌کنید، دسترسی‌ها را اعمال می‌کند."
+msgstr "وقتی فرد یک کوئری اجرا می‌کند (از جمله کوئری‌های نیتیو)، AMARA با جعل هویتِ نقشِ پایگاه‌داده‌ای که به ویژگی کاربر وصل می‌کنید، دسترسی‌ها را اعمال می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationModal/ImpersonationModalView.tsx:98
 msgid "Learn More"
@@ -23853,25 +23853,25 @@ msgstr "برای مرتبط‌کردن یک کاربر با نقش پایگاه�
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationWarning/ImpersonationWarning.tsx:23
 msgid "Make sure the main database credential has access to everything different user groups may need access to. It's what Metabase uses to sync table information."
-msgstr "مطمئن شوید اطلاعات ورود اصلی پایگاه‌داده به همه چیزهایی که گروه‌های کاربری مختلف ممکن است نیاز داشته باشند دسترسی دارد. Amara از آن برای همگام‌سازی اطلاعات جدول استفاده می‌کند."
+msgstr "مطمئن شوید اطلاعات ورود اصلی پایگاه‌داده به همه چیزهایی که گروه‌های کاربری مختلف ممکن است نیاز داشته باشند دسترسی دارد. AMARA از آن برای همگام‌سازی اطلاعات جدول استفاده می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationWarning/ImpersonationWarning.tsx:26
 #, javascript-format
 msgid "You’re connecting Metabase to the {0} database using the credentials for the Redshift user {1}. For impersonation to work,  {2} must be a superuser in Redshift."
-msgstr "شما Amara را با استفاده از اطلاعات ورود کاربر Redshift {1} به پایگاه‌دادهٔ {0} وصل کرده‌اید. برای اینکه جعل هویت کار کند، {2} باید در Redshift یک superuser باشد."
+msgstr "شما AMARA را با استفاده از اطلاعات ورود کاربر Redshift {1} به پایگاه‌دادهٔ {0} وصل کرده‌اید. برای اینکه جعل هویت کار کند، {2} باید در Redshift یک superuser باشد."
 
 #: enterprise/frontend/src/metabase-enterprise/advanced_permissions/components/ImpersonationWarning/ImpersonationWarning.tsx:41
 #, javascript-format
 msgid "{0} is the database user Metabase is using to connect to your  {1} database. Make sure that {2} has access to everything in {3} that all Metabase groups may need access to, as that database user account is what Metabase uses to sync table information."
-msgstr "{0} همان کاربر پایگاه‌داده‌ای است که Amara برای اتصال به پایگاه‌دادهٔ {1} شما استفاده می‌کند. مطمئن شوید {2} به همه چیز در {3} که ممکن است همهٔ گروه‌های Amara نیاز داشته باشند دسترسی دارد، چون همین حساب کاربری پایگاه‌داده چیزی است که Amara برای همگام‌سازی اطلاعات جدول استفاده می‌کند."
+msgstr "{0} همان کاربر پایگاه‌داده‌ای است که AMARA برای اتصال به پایگاه‌دادهٔ {1} شما استفاده می‌کند. مطمئن شوید {2} به همه چیز در {3} که ممکن است همهٔ گروه‌های AMARA نیاز داشته باشند دسترسی دارد، چون همین حساب کاربری پایگاه‌داده چیزی است که AMARA برای همگام‌سازی اطلاعات جدول استفاده می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/ai-controls/pages/MetabotCustomizationPage/MetabotCustomizationUpsellPage.tsx:11
 msgid "Pick the look and feel of Metabase’s AI agent"
-msgstr "ظاهر و حس‌وحال ایجنت هوش مصنوعیِ Amara را انتخاب کنید"
+msgstr "ظاهر و حس‌وحال ایجنت هوش مصنوعیِ AMARA را انتخاب کنید"
 
 #: enterprise/frontend/src/metabase-enterprise/ai-controls/pages/MetabotCustomizationPage/MetabotCustomizationUpsellPage.tsx:13
 msgid "Customize the name, icon, and illustrations used in AI chat experiences in Metabase."
-msgstr "نام، آیکن و ایلاستریشن‌هایی را که در تجربه‌های چتِ هوش مصنوعی در Amara استفاده می‌شوند سفارشی کنید."
+msgstr "نام، آیکن و ایلاستریشن‌هایی را که در تجربه‌های چتِ هوش مصنوعی در AMARA استفاده می‌شوند سفارشی کنید."
 
 #: enterprise/frontend/src/metabase-enterprise/ai-controls/pages/MetabotCustomizationPage/MetabotIconField.tsx:48
 msgid "The image you chose is larger than 1MB. Please choose another one."
@@ -24053,7 +24053,7 @@ msgstr "ببینید تیم‌تان چطور از هوش مصنوعی استف�
 
 #: enterprise/frontend/src/metabase-enterprise/audit_app/metabot-analytics/components/MetabotAnalyticsUpsellPage/MetabotAnalyticsUpsellPage.tsx:34
 msgid "Track trends of token use, conversations, and messages, and understand what your team is doing with AI in Metabase."
-msgstr "ترندهای استفاده از توکن، گفتگوها و پیام‌ها را ردیابی کنید و بفهمید تیم‌تان در Amara با هوش مصنوعی چه کار می‌کند."
+msgstr "ترندهای استفاده از توکن، گفتگوها و پیام‌ها را ردیابی کنید و بفهمید تیم‌تان در AMARA با هوش مصنوعی چه کار می‌کند."
 
 #: enterprise/frontend/src/metabase-enterprise/caching/components/StrategyEditorForQuestionsAndDashboards/constants.tsx:12
 msgid "Policy"
@@ -24287,12 +24287,12 @@ msgstr "نیاز به کمک دارید؟"
 
 #: enterprise/frontend/src/metabase-enterprise/license/components/BillingInfo/BillingInfo.tsx:76
 msgid "Manage your Cloud account, including billing preferences, in your Metabase Store account."
-msgstr "حساب ابری خود را، از جمله تنظیمات صورتحساب، در حساب فروشگاه Amara خود مدیریت کنید."
+msgstr "حساب ابری خود را، از جمله تنظیمات صورتحساب، در حساب فروشگاه AMARA خود مدیریت کنید."
 
 #: enterprise/frontend/src/metabase-enterprise/license/components/BillingInfo/BillingInfo.tsx:80
 #: frontend/src/metabase/admin/settings/components/SettingsPages/CloudSettingsPage.tsx:36
 msgid "Go to the Metabase Store"
-msgstr "رفتن به فروشگاه Amara"
+msgstr "رفتن به فروشگاه AMARA"
 
 #: enterprise/frontend/src/metabase-enterprise/license/components/BillingInfo/BillingInfo.tsx:94
 msgid "To manage your billing preferences, please email "
@@ -24731,7 +24731,7 @@ msgstr "اعطای دسترسی؟"
 
 #: enterprise/frontend/src/metabase-enterprise/support/components/SupportSettingsSection/GrantAccessModal.tsx:70
 msgid "You are about to allow a Metabase team member to access your instance."
-msgstr "شما در حال اجازه دادن به یک عضو تیم Amara برای دسترسی به نمونهٔ خود هستید."
+msgstr "شما در حال اجازه دادن به یک عضو تیم AMARA برای دسترسی به نمونهٔ خود هستید."
 
 #: enterprise/frontend/src/metabase-enterprise/support/components/SupportSettingsSection/GrantAccessModal.tsx:73
 msgid "The Success Engineer will have full admin access until the grant expires or is revoked."
@@ -24771,7 +24771,7 @@ msgstr "کمک‌رسانی"
 
 #: enterprise/frontend/src/metabase-enterprise/support/components/SupportSettingsSection/SupportSettingsSection.tsx:37
 msgid "Let a Metabase Success Engineer log in to your instance with a troubleshooting account to help resolve problems for you."
-msgstr "به یک Amara Success Engineer اجازه دهید با یک حساب کاربری عیب‌یابی وارد نمونهٔ شما شود تا برای حل مشکلات به شما کمک کند."
+msgstr "به یک AMARA Success Engineer اجازه دهید با یک حساب کاربری عیب‌یابی وارد نمونهٔ شما شود تا برای حل مشکلات به شما کمک کند."
 
 #: enterprise/frontend/src/metabase-enterprise/support/components/SupportSettingsSection/SupportSettingsSection.tsx:40
 msgid "Access always auto expires after the period you select."
@@ -25770,7 +25770,7 @@ msgstr "بیشتر بخوانید"
 
 #: frontend/src/metabase/admin/permissions/components/PermissionsEditor/PermissionsEditorLegacyWarning.tsx:30
 msgid "In a future release, if a group’s View data access for a database (or any of its schemas or tables) is still set to “No self-service (deprecated)”, Metabase will automatically change that group’s View data access for the entire database to “Blocked”. We’ll be defaulting to “Blocked”, the least permissive View data access, to prevent any unintended access to data."
-msgstr "در یک نسخهٔ آینده، اگر دسترسی View data یک گروه برای یک پایگاه‌داده (یا هرکدام از اسکیماها یا جدول‌هایش) هنوز روی «No self-service (deprecated)» باشد، Amara به‌صورت خودکار دسترسی View data آن گروه را برای کل پایگاه‌داده به «Blocked» تغییر می‌دهد. برای جلوگیری از هرگونه دسترسی ناخواسته به داده، پیش‌فرض را روی «Blocked» می‌گذاریم؛ کم‌دسترسی‌ترین سطح View data."
+msgstr "در یک نسخهٔ آینده، اگر دسترسی View data یک گروه برای یک پایگاه‌داده (یا هرکدام از اسکیماها یا جدول‌هایش) هنوز روی «No self-service (deprecated)» باشد، AMARA به‌صورت خودکار دسترسی View data آن گروه را برای کل پایگاه‌داده به «Blocked» تغییر می‌دهد. برای جلوگیری از هرگونه دسترسی ناخواسته به داده، پیش‌فرض را روی «Blocked» می‌گذاریم؛ کم‌دسترسی‌ترین سطح View data."
 
 #: frontend/src/metabase/admin/permissions/components/PermissionsEditor/PermissionsEditorLegacyWarning.tsx:35
 msgid "Need help? See our docs."
@@ -25854,7 +25854,7 @@ msgstr "احراز هویت Google"
 #: frontend/src/metabase/admin/settings/auth/components/GoogleAuthForm/GoogleAuthForm.tsx:89
 #, javascript-format
 msgid "To allow users to sign in with Google you'll need to give Metabase a Google Developers console application client ID. It only takes a few steps and instructions on how to create a key can be found {0}."
-msgstr "برای اینکه کاربران بتوانند با Google وارد شوند، باید یک client ID اپلیکیشن در Google Developers console به Amara بدهید. این کار فقط چند قدم دارد و دستورالعمل ساخت کلید را می‌توانید {0} پیدا کنید."
+msgstr "برای اینکه کاربران بتوانند با Google وارد شوند، باید یک client ID اپلیکیشن در Google Developers console به AMARA بدهید. این کار فقط چند قدم دارد و دستورالعمل ساخت کلید را می‌توانید {0} پیدا کنید."
 
 #: frontend/src/metabase/admin/settings/auth/components/GoogleAuthForm/GoogleAuthForm.tsx:91
 msgid "here"
@@ -25879,7 +25879,7 @@ msgstr "اگر آدرس ایمیل حساب Google کاربران از این د
 
 #: frontend/src/metabase/admin/settings/auth/containers/LdapAuthCard/LdapAuthCard.tsx:34
 msgid "Allows users within your LDAP directory to log in to Metabase with their LDAP credentials, and allows automatic mapping of LDAP groups to Metabase groups."
-msgstr "به کاربران داخل دایرکتوری LDAP شما اجازه می‌دهد با اطلاعات ورود LDAP به Amara وارد شوند، و امکان نگاشت خودکار گروه‌های LDAP به گروه‌های Amara را فراهم می‌کند."
+msgstr "به کاربران داخل دایرکتوری LDAP شما اجازه می‌دهد با اطلاعات ورود LDAP به AMARA وارد شوند، و امکان نگاشت خودکار گروه‌های LDAP به گروه‌های AMARA را فراهم می‌کند."
 
 #: frontend/src/metabase/admin/settings/components/ApiKeys/EditApiKeyModal.tsx:48
 #: frontend/src/metabase/admin/settings/components/ApiKeys/EditApiKeyModal.tsx:172
@@ -25888,7 +25888,7 @@ msgstr "بازتولید API key"
 
 #: frontend/src/metabase/admin/settings/components/ApiKeys/EditApiKeyModal.tsx:75
 msgid "Metabase will replace the existing API key with a new key. You won't be able to recover the old key."
-msgstr "Amara، API key موجود را با یک کلید جدید جایگزین می‌کند. نمی‌توانید کلید قبلی را بازیابی کنید."
+msgstr "AMARA، API key موجود را با یک کلید جدید جایگزین می‌کند. نمی‌توانید کلید قبلی را بازیابی کنید."
 
 #: frontend/src/metabase/admin/settings/components/ApiKeys/EditApiKeyModal.tsx:80
 msgid "No, don't regenerate"
@@ -25955,12 +25955,12 @@ msgstr "گروه یک فیلد اجباری است"
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationCreationError.tsx:23
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationError.tsx:32
 msgid "Migration to Metabase Cloud failed"
-msgstr "مهاجرت به Amara Cloud ناموفق بود"
+msgstr "مهاجرت به AMARA Cloud ناموفق بود"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:33
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:34
 msgid "Talking to Metabase Cloud..."
-msgstr "در حال ارتباط با Amara Cloud..."
+msgstr "در حال ارتباط با AMARA Cloud..."
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:35
 msgid "Taking a snapshot of this instance..."
@@ -25972,21 +25972,21 @@ msgstr "در حال آپلود اسنپ‌شات به کلاد..."
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:59
 msgid "Migration to Metabase Cloud has been canceled."
-msgstr "مهاجرت به Amara Cloud لغو شد."
+msgstr "مهاجرت به AMARA Cloud لغو شد."
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:80
 msgid "Migrating to Metabase Cloud…"
-msgstr "در حال مهاجرت به Amara Cloud…"
+msgstr "در حال مهاجرت به AMARA Cloud…"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:83
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:87
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationSuccess.tsx:44
 msgid "To complete the migration, set up your account in the Metabase Store"
-msgstr "برای تکمیل مهاجرت، حساب خود را در Amara Store راه‌اندازی کنید"
+msgstr "برای تکمیل مهاجرت، حساب خود را در AMARA Store راه‌اندازی کنید"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:84
 msgid "While we snapshot your Metabase data, people will be able to view questions and dashboards, but they won't be able to edit or create anything new. It should only take up to 30 minutes"
-msgstr "در حالی که از داده‌های Amara شما اسنپ‌شات می‌گیریم، افراد می‌توانند سؤال‌ها و داشبوردها را ببینند، اما نمی‌توانند چیزی را ویرایش کنند یا چیز جدیدی بسازند. این کار باید حداکثر تا 30 دقیقه طول بکشد"
+msgstr "در حالی که از داده‌های AMARA شما اسنپ‌شات می‌گیریم، افراد می‌توانند سؤال‌ها و داشبوردها را ببینند، اما نمی‌توانند چیزی را ویرایش کنند یا چیز جدیدی بسازند. این کار باید حداکثر تا 30 دقیقه طول بکشد"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:102
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:128
@@ -25996,7 +25996,7 @@ msgstr "لغو مهاجرت"
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:108
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationSuccess.tsx:49
 msgid "Go to Metabase Store"
-msgstr "رفتن به Amara Store"
+msgstr "رفتن به AMARA Store"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationInProgress.tsx:119
 msgid "Cancel migration?"
@@ -26009,7 +26009,7 @@ msgstr "فرایند مهاجرت را لغو می‌کنیم. بعد از آن�
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationError.tsx:52
 #, javascript-format
 msgid "Migration to Metabase Cloud failed on {0}."
-msgstr "مهاجرت به Amara Cloud در {0} ناموفق شد."
+msgstr "مهاجرت به AMARA Cloud در {0} ناموفق شد."
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationError.tsx:63
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationSuccess.tsx:62
@@ -26018,12 +26018,12 @@ msgstr "فرایند را از نو شروع کنید"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationStart.tsx:39
 msgid "Get started with Metabase Cloud"
-msgstr "شروع کار با Amara Cloud"
+msgstr "شروع کار با AMARA Cloud"
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationStart.tsx:42
 msgid "Just a heads up: your Metabase will be read-only for up to 30\n"
 "minutes while we prep it for migration."
-msgstr "فقط جهت اطلاع: Amara شما تا 30\n"
+msgstr "فقط جهت اطلاع: AMARA شما تا 30\n"
 "دقیقه در حالی که آن را برای مهاجرت آماده می‌کنیم، فقط‌خواندنی خواهد بود."
 
 #: frontend/src/metabase/admin/settings/components/CloudPanel/MigrationStart.tsx:44
@@ -26103,7 +26103,7 @@ msgstr "فعال‌سازی SDK تعبیه‌سازی ماژولار"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSdkSettings/EmbeddingSdkSettings.tsx:75
 msgid "Embed the full power of Metabase into your application to build a custom analytics experience and programmatically manage dashboards and data."
-msgstr "تمام قدرت Amara را داخل اپلیکیشن‌تان جاسازی کنید تا یک تجربهٔ تحلیل سفارشی بسازید و داشبوردها و داده‌ها را به‌صورت programmatic مدیریت کنید."
+msgstr "تمام قدرت AMARA را داخل اپلیکیشن‌تان جاسازی کنید تا یک تجربهٔ تحلیل سفارشی بسازید و داشبوردها و داده‌ها را به‌صورت programmatic مدیریت کنید."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSdkSettings/EmbeddingSdkSettings.tsx:80
 msgid "Quick start"
@@ -26123,7 +26123,7 @@ msgstr "روش‌های تعبیه‌سازی"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSettings/EmbeddingSettings.tsx:67
 msgid "The simplest way to embed Metabase. Embed dashboards, questions, the query builder, natural language querying with AI, and more in your app with components. Built on the SDK with per-component controls and theming."
-msgstr "ساده‌ترین راه برای تعبیه‌سازی Amara. داشبوردها، سؤال‌ها، سازندهٔ کوئری، کوئری‌کردن با زبان طبیعی با هوش مصنوعی، و موارد بیشتر را با کامپوننت‌ها در اپ خود جاسازی کنید. مبتنی بر SDK با کنترل‌های به‌ازای هر کامپوننت و تمینگ."
+msgstr "ساده‌ترین راه برای تعبیه‌سازی AMARA. داشبوردها، سؤال‌ها، سازندهٔ کوئری، کوئری‌کردن با زبان طبیعی با هوش مصنوعی، و موارد بیشتر را با کامپوننت‌ها در اپ خود جاسازی کنید. مبتنی بر SDK با کنترل‌های به‌ازای هر کامپوننت و تمینگ."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSettings/EmbeddingSettings.tsx:102
 msgid "Version pinning"
@@ -26131,7 +26131,7 @@ msgstr "سنجاق کردن نسخه"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSettings/EmbeddingSettings.tsx:106
 msgid "Metabase Cloud instances are automatically upgraded to new releases. SDK packages are strictly compatible with specific version of Metabase. You can request to pin your Metabase to a major version and upgrade your Metabase and SDK dependency in a coordinated fashion."
-msgstr "نمونه‌های Amara Cloud به‌صورت خودکار به نسخه‌های جدید ارتقا پیدا می‌کنند. پکیج‌های SDK فقط با نسخهٔ مشخصی از Amara سازگار هستند. می‌توانید درخواست بدهید Amara شما روی یک نسخهٔ اصلی pin شود و ارتقای Amara و وابستگی SDK را هماهنگ انجام دهید."
+msgstr "نمونه‌های AMARA Cloud به‌صورت خودکار به نسخه‌های جدید ارتقا پیدا می‌کنند. پکیج‌های SDK فقط با نسخهٔ مشخصی از AMARA سازگار هستند. می‌توانید درخواست بدهید AMARA شما روی یک نسخهٔ اصلی pin شود و ارتقای AMARA و وابستگی SDK را هماهنگ انجام دهید."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSettings/EmbeddingSettings.tsx:112
 msgid "Request version pinning"
@@ -26147,7 +26147,7 @@ msgstr "یک راه امن برای جاسازی نمودارها و داشبو�
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/SharedCombinedEmbeddingSettings/SharedCombinedEmbeddingSettings.tsx:55
 msgid "Upgrade to Metabase Pro for more powerful embedding methods"
-msgstr "برای روش‌های تعبیه‌سازی قدرتمندتر به Amara Pro ارتقا دهید"
+msgstr "برای روش‌های تعبیه‌سازی قدرتمندتر به AMARA Pro ارتقا دهید"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/SharedCombinedEmbeddingSettings/SharedCombinedEmbeddingSettings.tsx:64
 msgid "Embed charts, dashboards with drill-throughs, or even the query builder into your own application using customizable components. Secure your embeds with single sign-on."
@@ -26159,7 +26159,7 @@ msgstr "جاسازی‌های منتشرشده"
 
 #: frontend/src/metabase/admin/settings/components/SettingsLicense/SettingsLicense.tsx:25
 msgid "Metabase is open source and will be free forever – but by upgrading you can have priority support, more tools to help you share your insights with your teams and powerful options to help you create seamless, interactive data experiences for your customers."
-msgstr "Amara متن‌باز است و برای همیشه رایگان خواهد بود - اما با به‌روزرسانی می‌توانید پشتیبانی اولویت‌دار، ابزارهای بیشتر برای کمک به اشتراک‌گذاری بینش‌هایتان با تیم‌هایتان و گزینه‌های قدرتمند برای ایجاد تجربیات داده‌ای تعاملی و یکپارچه برای مشتریانتان را دریافت کنید."
+msgstr "AMARA متن‌باز است و برای همیشه رایگان خواهد بود - اما با به‌روزرسانی می‌توانید پشتیبانی اولویت‌دار، ابزارهای بیشتر برای کمک به اشتراک‌گذاری بینش‌هایتان با تیم‌هایتان و گزینه‌های قدرتمند برای ایجاد تجربیات داده‌ای تعاملی و یکپارچه برای مشتریانتان را دریافت کنید."
 
 #: frontend/src/metabase/admin/settings/components/SettingsLicense/SettingsLicense.tsx:27
 msgid "Want to know more?"
@@ -26175,7 +26175,7 @@ msgstr "تنظیمات Cloud"
 
 #: frontend/src/metabase/admin/settings/components/SettingsPages/CloudSettingsPage.tsx:32
 msgid "Manage your Cloud account, including billing preferences and technical settings about this instance in your Metabase Store account."
-msgstr "حساب کاربری ابری خود را مدیریت کنید، شامل تنظیمات پرداخت و تنظیمات فنی در مورد این نمونه در حساب Amara Store خودتان."
+msgstr "حساب کاربری ابری خود را مدیریت کنید، شامل تنظیمات پرداخت و تنظیمات فنی در مورد این نمونه در حساب AMARA Store خودتان."
 
 #: frontend/src/metabase/admin/settings/components/SettingsPages/EmailSettingsPage.tsx:39
 msgid "From Name"
@@ -26347,7 +26347,7 @@ msgstr "URL سرور map tile برای رندر کردن نقشه‌ها. اگر
 
 #: frontend/src/metabase/admin/settings/components/SettingsPages/MapsSettingsPage.tsx:23
 msgid "Metabase uses OpenStreetMaps by default."
-msgstr "Amara از طریق OpenStreetMaps به طور پیش فرض استفاده می کند."
+msgstr "AMARA از طریق OpenStreetMaps به طور پیش فرض استفاده می کند."
 
 #: frontend/src/metabase/admin/settings/components/SettingsPages/PublicSharingSettingsPage.tsx:24
 msgid "Enable Public Sharing"
@@ -26559,17 +26559,17 @@ msgstr "تنها در صورتی این را تغییر دهید که می‌د�
 #: frontend/src/metabase/admin/settings/components/widgets/VersionUpdateNotice/VersionUpdateNotice.tsx:42
 #, javascript-format
 msgid "You're running Metabase {0} which is the latest and greatest!"
-msgstr "شما در حال اجرای Amara {0} هستید که آخرین و بهترین نسخه است!"
+msgstr "شما در حال اجرای AMARA {0} هستید که آخرین و بهترین نسخه است!"
 
 #: frontend/src/metabase/admin/settings/components/widgets/VersionUpdateNotice/VersionUpdateNotice.tsx:53
 #, javascript-format
 msgid "You're running Metabase {0}"
-msgstr "شما در حال اجرای Amara {0} هستید"
+msgstr "شما در حال اجرای AMARA {0} هستید"
 
 #: frontend/src/metabase/admin/settings/components/widgets/VersionUpdateNotice/VersionUpdateNotice.tsx:83
 #, javascript-format
 msgid "Metabase {0} is available. You're running {1}."
-msgstr "Amara {0} در دسترس است. شما در حال اجرای {1} هستید."
+msgstr "AMARA {0} در دسترس است. شما در حال اجرای {1} هستید."
 
 #: frontend/src/metabase/admin/settings/components/widgets/VersionUpdateNotice/VersionUpdateNotice.tsx:114
 msgid "What's new"
@@ -26581,7 +26581,7 @@ msgstr "گزارش تغییرات"
 
 #: frontend/src/metabase/admin/settings/components/widgets/UsageTracking/AnonymousTrackingInput.tsx:11
 msgid "Send anonymous tracking data to Metabase"
-msgstr "ارسال داده‌های ردیابی ناشناس به Amara"
+msgstr "ارسال داده‌های ردیابی ناشناس به AMARA"
 
 #: frontend/src/metabase/admin/tools/components/LogLevelsModal/LogLevelsForm.tsx:50
 msgid "Override log configuration using"
@@ -26616,7 +26616,7 @@ msgstr "فیلتر لاگ‌ها"
 
 #: frontend/src/metabase/admin/tools/components/Logs/Logs.tsx:124
 msgid "All Metabase processes"
-msgstr "همهٔ پردازه‌های Amara"
+msgstr "همهٔ پردازه‌های AMARA"
 
 #: frontend/src/metabase/admin/tools/components/ModelCacheRefreshJobs/ModelCacheRefreshJobs.tsx:54
 msgid "Queued"
@@ -26695,16 +26695,16 @@ msgstr "بستن بنر"
 #: frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalInitial.tsx:77
 #: frontend/src/metabase/common/components/upsells/components/UpsellCardContent.tsx:153
 msgid "Metabase Pro"
-msgstr "Amara Pro"
+msgstr "AMARA Pro"
 
 #: frontend/src/metabase/common/components/upsells/components/UpsellCardContent.tsx:176
 #, javascript-format
 msgid "Please ask a Metabase Store Admin ({0}) to upgrade your plan."
-msgstr "لطفاً از یک مدیر Amara Store ({0}) بخواهید پلن شما را ارتقا دهد."
+msgstr "لطفاً از یک مدیر AMARA Store ({0}) بخواهید پلن شما را ارتقا دهد."
 
 #: frontend/src/metabase/common/components/upsells/components/UpsellCardContent.tsx:178
 msgid "Please ask a Metabase Store Admin to upgrade your plan."
-msgstr "لطفاً از یک مدیر Amara Store بخواهید پلن شما را ارتقا دهد."
+msgstr "لطفاً از یک مدیر AMARA Store بخواهید پلن شما را ارتقا دهد."
 
 #: frontend/src/metabase/common/components/upsells/components/UpsellCardContent.tsx:182
 msgid "Get a 14-day free trial of this and other pro features"
@@ -27242,7 +27242,7 @@ msgstr "امنیت در سطح ردیف و ستون"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx:29
 msgid "All data is stored in the same database and Metabase will apply a filter to queries for a table column to match a specific value (ex: customerId = 2)."
-msgstr "همهٔ داده‌ها در یک پایگاه داده ذخیره می‌شوند و Amara روی کوئری‌ها فیلتری برای یک ستون جدول اعمال می‌کند تا با یک مقدار مشخص مطابقت داشته باشد (مثلاً: customerId = 2)."
+msgstr "همهٔ داده‌ها در یک پایگاه داده ذخیره می‌شوند و AMARA روی کوئری‌ها فیلتری برای یک ستون جدول اعمال می‌کند تا با یک مقدار مشخص مطابقت داشته باشد (مثلاً: customerId = 2)."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx:30
 msgid "Use row and column level security"
@@ -27255,7 +27255,7 @@ msgstr "جعل هویت اتصال"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx:36
 msgid "All data is stored in the same database, but Metabase will use a different database role to connect for each tenant. Roles are configured at the database level to only query relevant data."
-msgstr "همهٔ داده‌ها در یک پایگاه داده ذخیره می‌شوند، اما Amara برای هر مستأجر از یک نقش پایگاه دادهٔ متفاوت برای اتصال استفاده می‌کند. نقش‌ها در سطح پایگاه داده طوری پیکربندی می‌شوند که فقط داده‌های مرتبط را کوئری کنند."
+msgstr "همهٔ داده‌ها در یک پایگاه داده ذخیره می‌شوند، اما AMARA برای هر مستأجر از یک نقش پایگاه دادهٔ متفاوت برای اتصال استفاده می‌کند. نقش‌ها در سطح پایگاه داده طوری پیکربندی می‌شوند که فقط داده‌های مرتبط را کوئری کنند."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx:37
 msgid "Use connection impersonation"
@@ -27263,7 +27263,7 @@ msgstr "از جعل هویت اتصال استفاده کنید"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx:43
 msgid "Each tenant has their own database with identical schema. Metabase will use a connection string from a tenant attribute to run queries against a different destination database."
-msgstr "هر مستأجر پایگاه دادهٔ خودش را با اسکیمای یکسان دارد. Amara از یک connection string از ویژگیِ مستأجر استفاده می‌کند تا کوئری‌ها را روی یک پایگاه دادهٔ مقصدِ متفاوت اجرا کند."
+msgstr "هر مستأجر پایگاه دادهٔ خودش را با اسکیمای یکسان دارد. AMARA از یک connection string از ویژگیِ مستأجر استفاده می‌کند تا کوئری‌ها را روی یک پایگاه دادهٔ مقصدِ متفاوت اجرا کند."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx:44
 msgid "Use database routing"
@@ -27279,7 +27279,7 @@ msgstr "فعال‌سازی مستأجرها و ایجاد مجموعهٔ مشت
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/EnableTenantsStepContent.tsx:74
 msgid "A tenant is a set of attributes assigned to a user to isolate them from other tenants. For example, in a SaaS app with embedded Metabase dashboards, you can assign each customer to a tenant."
-msgstr "مستأجر مجموعه‌ای از ویژگی‌هاست که به یک کاربر اختصاص داده می‌شود تا او را از مستأجرهای دیگر جدا کند. برای مثال، در یک اپ SaaS با داشبوردهای تعبیه‌شدهٔ Amara، می‌توانید هر مشتری را به یک مستأجر اختصاص دهید."
+msgstr "مستأجر مجموعه‌ای از ویژگی‌هاست که به یک کاربر اختصاص داده می‌شود تا او را از مستأجرهای دیگر جدا کند. برای مثال، در یک اپ SaaS با داشبوردهای تعبیه‌شدهٔ AMARA، می‌توانید هر مشتری را به یک مستأجر اختصاص دهید."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/EnableTenantsStepContent.tsx:78
 msgid "The main benefit of tenants is that you can reuse the same dashboards and permissions across all tenants, instead of recreating them for each customer, while ensuring each tenant only sees its own data. A shared collection will be created to hold dashboards and charts that are shared between all tenants."
@@ -27381,11 +27381,11 @@ msgstr "فعال‌سازی احراز هویت JWT ناموفق بود"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/SetupJwtStep.tsx:58
 msgid "To implement SSO you will need to add a new endpoint to your app. You can connect Metabase to your identity provider using JSON Web Tokens (JWT) to authenticate people. Enabling JWT authentication will also create a signing key and enable group sync."
-msgstr "برای پیاده‌سازی SSO باید یک endpoint جدید به اپ خود اضافه کنید. می‌توانید Amara را با استفاده از JSON Web Tokens (JWT) برای احراز هویت افراد به ارائه‌دهندهٔ هویت خود وصل کنید. فعال کردن احراز هویت JWT همچنین یک کلید امضا ایجاد می‌کند و همگام‌سازی گروه را فعال می‌کند."
+msgstr "برای پیاده‌سازی SSO باید یک endpoint جدید به اپ خود اضافه کنید. می‌توانید AMARA را با استفاده از JSON Web Tokens (JWT) برای احراز هویت افراد به ارائه‌دهندهٔ هویت خود وصل کنید. فعال کردن احراز هویت JWT همچنین یک کلید امضا ایجاد می‌کند و همگام‌سازی گروه را فعال می‌کند."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/SetupJwtStep.tsx:63
 msgid "This is where Metabase will redirect login requests"
-msgstr "اینجا جایی است که Amara درخواست‌های ورود را ریدایرکت می‌کند"
+msgstr "اینجا جایی است که AMARA درخواست‌های ورود را ریدایرکت می‌کند"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/SetupJwtStep.tsx:77
 msgid "Enable JWT authentication and continue"
@@ -27413,7 +27413,7 @@ msgstr "با SSO وارد شوید. کار کرد؟"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:43
 msgid "To check if JWT authentication was configured successfully, open Metabase in a different browser or in a private tab and try logging in to your account using single sign-on (SSO). Is login working correctly?"
-msgstr "برای بررسی اینکه احراز هویت JWT با موفقیت پیکربندی شده است، Amara را در یک مرورگر دیگر یا در یک تب خصوصی باز کنید و با استفاده از ورود یکپارچه (SSO) وارد حساب خود شوید. ورود درست کار می‌کند؟"
+msgstr "برای بررسی اینکه احراز هویت JWT با موفقیت پیکربندی شده است، AMARA را در یک مرورگر دیگر یا در یک تب خصوصی باز کنید و با استفاده از ورود یکپارچه (SSO) وارد حساب خود شوید. ورود درست کار می‌کند؟"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:48
 msgid "No, I couldn't log in"
@@ -27446,7 +27446,7 @@ msgstr "خطای رمزگشایی JWT: \"Message seems corrupt\""
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:91
 msgid "If after being redirected from your app to Metabase, you see \"Message seems corrupt or manipulated\" there was an issue decrypting signed JWT. Ensure METABASE_JWT_SHARED_SECRET has the right value."
-msgstr "اگر بعد از ریدایرکت شدن از اپ شما به Amara پیام \"Message seems corrupt or manipulated\" را می‌بینید، در رمزگشایی JWT امضاشده مشکلی وجود داشته است. مطمئن شوید METABASE_JWT_SHARED_SECRET مقدار درست را دارد."
+msgstr "اگر بعد از ریدایرکت شدن از اپ شما به AMARA پیام \"Message seems corrupt or manipulated\" را می‌بینید، در رمزگشایی JWT امضاشده مشکلی وجود داشته است. مطمئن شوید METABASE_JWT_SHARED_SECRET مقدار درست را دارد."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:96
 msgid "Tenant ID mismatch error"
@@ -27454,7 +27454,7 @@ msgstr "خطای عدم تطابق Tenant ID"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:99
 msgid "If after being redirected from your app to Metabase, you see an error message \"Tenant ID mismatch with existing user\", your application is trying to sign in a the user with the wrong tenant slug. Review @tenant claim in the JWT and ensure it matches the tenant this tenant user belongs to."
-msgstr "اگر بعد از ریدایرکت شدن از اپ شما به Amara پیام خطای \"Tenant ID mismatch with existing user\" را می‌بینید، اپلیکیشن شما دارد کاربر را با tenant slug اشتباه وارد می‌کند. claim ‏@tenant را در JWT بررسی کنید و مطمئن شوید با مستأجری که این کاربرِ مستأجر به آن تعلق دارد مطابقت دارد."
+msgstr "اگر بعد از ریدایرکت شدن از اپ شما به AMARA پیام خطای \"Tenant ID mismatch with existing user\" را می‌بینید، اپلیکیشن شما دارد کاربر را با tenant slug اشتباه وارد می‌کند. claim ‏@tenant را در JWT بررسی کنید و مطمئن شوید با مستأجری که این کاربرِ مستأجر به آن تعلق دارد مطابقت دارد."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:107
 msgid "User provisioning disabled for JWT SSO"
@@ -27462,7 +27462,7 @@ msgstr "تأمین کاربر برای JWT SSO غیرفعال است"
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:110
 msgid "If after being redirected from your app to Metabase, you see an error message \"Sorry, but you'll need a $SITENAME account to view this page, contact your administrator. User provisioning is turned off for JWT SSO in admin settings/authentication. Either turn this feature on to have users be provisioned if they don't exist yet, or ensure users exist before signing them in via JWT SSO."
-msgstr "اگر بعد از ریدایرکت شدن از اپ شما به Amara پیام خطای \"Sorry, but you'll need a $SITENAME account to view this page, contact your administrator. User provisioning is turned off for JWT SSO in admin settings/authentication. Either turn this feature on to have users be provisioned if they don't exist yet, or ensure users exist before signing them in via JWT SSO.\" را می‌بینید، یعنی تأمین کاربر برای JWT SSO در admin settings/authentication خاموش است. یا این قابلیت را روشن کنید تا اگر کاربران هنوز وجود ندارند برایشان ساخته شود، یا قبل از وارد کردنشان از طریق JWT SSO مطمئن شوید کاربران وجود دارند."
+msgstr "اگر بعد از ریدایرکت شدن از اپ شما به AMARA پیام خطای \"Sorry, but you'll need a $SITENAME account to view this page, contact your administrator. User provisioning is turned off for JWT SSO in admin settings/authentication. Either turn this feature on to have users be provisioned if they don't exist yet, or ensure users exist before signing them in via JWT SSO.\" را می‌بینید، یعنی تأمین کاربر برای JWT SSO در admin settings/authentication خاموش است. یا این قابلیت را روشن کنید تا اگر کاربران هنوز وجود ندارند برایشان ساخته شود، یا قبل از وارد کردنشان از طریق JWT SSO مطمئن شوید کاربران وجود دارند."
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/TestJwtStep.tsx:117
 msgid "Contact customer support"
@@ -27482,7 +27482,7 @@ msgstr "اطلاعات تم نمونه"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/Authentication/MetabaseAccountSection.tsx:49
 msgid "Metabase account"
-msgstr "حساب Amara"
+msgstr "حساب AMARA"
 
 #: frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/Authentication/MetabaseAccountSection.tsx:58
 msgid "Single sign-on"
@@ -27755,7 +27755,7 @@ msgstr "مجوز تعبیه‌سازی ما."
 
 #: frontend/src/metabase/public/components/widgets/LegaleseStep/LegaleseStep.tsx:45
 msgid "When you embed charts or dashboards from Metabase in your own application that application isn't subject to the Affero General Public License that covers the rest of Metabase, provided you keep the Metabase logo and the \"Powered by Metabase\" visible on those embeds."
-msgstr "وقتی نمودارها یا داشبوردها را از Amara در اپلیکیشن خود جاسازی می‌کنید، آن اپلیکیشن مشمول مجوز Affero General Public License که بقیهٔ Amara را پوشش می‌دهد نیست، به شرطی که لوگوی Amara و عبارت \"Powered by Amara\" را روی آن جاسازی‌ها قابل مشاهده نگه دارید."
+msgstr "وقتی نمودارها یا داشبوردها را از AMARA در اپلیکیشن خود جاسازی می‌کنید، آن اپلیکیشن مشمول مجوز Affero General Public License که بقیهٔ AMARA را پوشش می‌دهد نیست، به شرطی که لوگوی AMARA و عبارت \"Powered by AMARA\" را روی آن جاسازی‌ها قابل مشاهده نگه دارید."
 
 #: frontend/src/metabase/query_builder/components/DatasetEditor/DatasetFieldMetadataSidebar/DatasetFieldMetadataSemanticTypePicker.tsx:38
 msgid "Column type"
@@ -29737,7 +29737,7 @@ msgstr "Lax (پیش‌فرض)"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSecuritySettings/SameSiteSelectWidget.tsx:16
 msgid "Allows Metabase session cookies to be shared on the same domain. Used for production instances on the same domain."
-msgstr "اجازه می‌دهد کوکی‌های سشن Amara در همان دامنه به اشتراک گذاشته شوند. برای نمونه‌های محیط عملیاتی روی همان دامنه استفاده می‌شود."
+msgstr "اجازه می‌دهد کوکی‌های سشن AMARA در همان دامنه به اشتراک گذاشته شوند. برای نمونه‌های محیط عملیاتی روی همان دامنه استفاده می‌شود."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSecuritySettings/SameSiteSelectWidget.tsx:20
 msgid "Strict (not recommended)"
@@ -29745,7 +29745,7 @@ msgstr "Strict (توصیه نمی‌شود)"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSecuritySettings/SameSiteSelectWidget.tsx:21
 msgid "Does not allow Metabase session cookies to be shared with embedded instances. Use this if you do not want to enable session sharing with embedding."
-msgstr "اجازه نمی‌دهد کوکی‌های سشن Amara با نمونه‌های جاسازی‌شده به اشتراک گذاشته شوند. اگر نمی‌خواهید اشتراک‌گذاری سشن با تعبیه‌سازی را فعال کنید، از این استفاده کنید."
+msgstr "اجازه نمی‌دهد کوکی‌های سشن AMARA با نمونه‌های جاسازی‌شده به اشتراک گذاشته شوند. اگر نمی‌خواهید اشتراک‌گذاری سشن با تعبیه‌سازی را فعال کنید، از این استفاده کنید."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSecuritySettings/SameSiteSelectWidget.tsx:25
 msgid "None (requires HTTPS)"
@@ -29753,7 +29753,7 @@ msgstr "هیچ‌کدام (نیازمند HTTPS)"
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSecuritySettings/SameSiteSelectWidget.tsx:26
 msgid "Use \"None\" when your app and Metabase are hosted on different domains. Incompatible with Safari and iOS-based browsers."
-msgstr "وقتی اپ شما و Amara روی دامنه‌های متفاوت میزبانی می‌شوند از \"None\" استفاده کنید. با Safari و مرورگرهای مبتنی بر iOS سازگار نیست."
+msgstr "وقتی اپ شما و AMARA روی دامنه‌های متفاوت میزبانی می‌شوند از \"None\" استفاده کنید. با Safari و مرورگرهای مبتنی بر iOS سازگار نیست."
 
 #: frontend/src/metabase/admin/settings/components/EmbeddingSettings/EmbeddingSecuritySettings/SameSiteSelectWidget.tsx:65
 msgid "SameSite cookie setting"
@@ -29761,11 +29761,11 @@ msgstr "تنظیم کوکی SameSite"
 
 #: frontend/src/metabase/admin/settings/components/widgets/GroupMappingsWidget/GroupMappingsWidgetView.tsx:31
 msgid "Mappings allow Metabase to automatically add and remove users from groups based on the membership information provided by the directory server. If no mappings are defined, groups will automatically be assigned based on exactly matching names."
-msgstr "Mappingها به Amara اجازه می‌دهند بر اساس اطلاعات عضویت ارائه‌شده توسط سرور دایرکتوری، کاربران را به‌صورت خودکار به گروه‌ها اضافه یا از آن‌ها حذف کند. اگر هیچ Mappingای تعریف نشده باشد، گروه‌ها بر اساس تطابق دقیق نام‌ها به‌صورت خودکار تخصیص داده می‌شوند."
+msgstr "Mappingها به AMARA اجازه می‌دهند بر اساس اطلاعات عضویت ارائه‌شده توسط سرور دایرکتوری، کاربران را به‌صورت خودکار به گروه‌ها اضافه یا از آن‌ها حذف کند. اگر هیچ Mappingای تعریف نشده باشد، گروه‌ها بر اساس تطابق دقیق نام‌ها به‌صورت خودکار تخصیص داده می‌شوند."
 
 #: frontend/src/metabase/admin/settings/components/widgets/GroupMappingsWidget/GroupMappingsWidgetView.tsx:33
 msgid "Mappings allow Metabase to automatically add and remove users from groups based on the membership information provided by the directory server. If a group isn‘t mapped, its membership won‘t be synced."
-msgstr "نگاشت‌ها به Amara اجازه می‌دهند که به طور خودکار کاربران را بر اساس اطلاعات عضویت ارائه شده توسط سرور فهرست به گروه‌ها اضافه و حذف کند. اگر یک گروه نگاشته نباشد، عضویت آن همگام‌سازی نخواهد شد."
+msgstr "نگاشت‌ها به AMARA اجازه می‌دهند که به طور خودکار کاربران را بر اساس اطلاعات عضویت ارائه شده توسط سرور فهرست به گروه‌ها اضافه و حذف کند. اگر یک گروه نگاشته نباشد، عضویت آن همگام‌سازی نخواهد شد."
 
 #: frontend/src/metabase/admin/settings/components/widgets/GroupMappingsWidget/GroupMappingsWidgetView.tsx:41
 msgid "No mappings yet, groups will be automatically assigned by exactly matching names"
@@ -30032,7 +30032,7 @@ msgstr "در حال راه‌اندازی تریال رایگان شما، لط�
 
 #: frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalLoading.tsx:31
 msgid "Setting up Metabase Pro, please wait"
-msgstr "در حال راه‌اندازی Amara Pro، لطفاً صبر کنید"
+msgstr "در حال راه‌اندازی AMARA Pro، لطفاً صبر کنید"
 
 #: frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalLoading.tsx:57
 msgid "Your free trial is ready"
@@ -30040,7 +30040,7 @@ msgstr "تریال رایگان شما آماده است"
 
 #: frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalLoading.tsx:59
 msgid "Metabase Pro is ready to use"
-msgstr "Amara Pro آمادهٔ استفاده است"
+msgstr "AMARA Pro آمادهٔ استفاده است"
 
 #: frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalError.tsx:28
 msgid "Please try again later."
@@ -30720,11 +30720,11 @@ msgstr "عضویت کاربری این گروه دیگر با سرور دایر�
 
 #: frontend/src/metabase/admin/settings/components/widgets/GroupMappingsWidget/DeleteGroupMappingModal/DeleteGroupMappingModal.tsx:63
 msgid "What should happen with the groups themselves in Metabase?"
-msgstr "با خود گروه‌ها در Amara چه باید کرد؟"
+msgstr "با خود گروه‌ها در AMARA چه باید کرد؟"
 
 #: frontend/src/metabase/admin/settings/components/widgets/GroupMappingsWidget/DeleteGroupMappingModal/DeleteGroupMappingModal.tsx:64
 msgid "What should happen with the group itself in Metabase?"
-msgstr "با خود گروه در Amara چه باید کرد؟"
+msgstr "با خود گروه در AMARA چه باید کرد؟"
 
 #: frontend/src/metabase/admin/settings/components/widgets/GroupMappingsWidget/DeleteGroupMappingModal/DeleteGroupMappingModal.tsx:69
 msgid "Remove this group mapping?"
@@ -31156,7 +31156,7 @@ msgstr "بکاپ‌های خودکار، ریستورها و آپگریدها، 
 #: frontend/src/metabase/admin/upsells/UpsellUploads.tsx:27
 msgctxt "in the sentence 'Upgrade to Metabase Pro to manage your uploaded files and available storage space.'"
 msgid "Upgrade to Metabase Pro"
-msgstr "ارتقا به Amara Pro"
+msgstr "ارتقا به AMARA Pro"
 
 #: frontend/src/metabase/admin/upsells/UpsellUploads.tsx:41
 #, javascript-format
@@ -31794,7 +31794,7 @@ msgstr "برای انجام این کار به یک {0} نیاز دارید."
 #, javascript-format
 msgctxt "{0} is '/sso/metabase'"
 msgid "Next, set up an endpoint on your backend (e.g., {0}) that uses your Metabase JWT shared secret to generate a JWT for the authenticated user. "
-msgstr "بعد، یک endpoint در بک‌اندتان (مثلاً {0}) راه‌اندازی کنید که با استفاده از JWT shared secret مربوط به Amara یک JWT برای کاربر احراز هویت‌شده تولید کند. "
+msgstr "بعد، یک endpoint در بک‌اندتان (مثلاً {0}) راه‌اندازی کنید که با استفاده از JWT shared secret مربوط به AMARA یک JWT برای کاربر احراز هویت‌شده تولید کند. "
 
 #: frontend/src/metabase/embedding/embedding-hub/components/SetupSsoPage/AddEndpointStep.tsx:32
 #, javascript-format
@@ -32439,11 +32439,11 @@ msgstr "لاگ‌گیریِ مسیر جاسازی، پارامترهای کوئ�
 
 #: metabase/analytics/settings.clj:20
 msgid "Enable the collection of anonymous usage data in order to help Metabase improve.."
-msgstr "برای کمک به بهبود Amara، جمع‌آوری داده‌های ناشناسِ استفاده را فعال کنید.."
+msgstr "برای کمک به بهبود AMARA، جمع‌آوری داده‌های ناشناسِ استفاده را فعال کنید.."
 
 #: metabase/analytics/settings.clj:74
 msgid "The approximate timestamp at which this instance of Metabase was created, for inclusion in analytics."
-msgstr "برچسب زمانی تقریبی که در آن این نمونه از Amara برای گنجاندن در تجزیه و تحلیل ایجاد شد."
+msgstr "برچسب زمانی تقریبی که در آن این نمونه از AMARA برای گنجاندن در تجزیه و تحلیل ایجاد شد."
 
 #: metabase/analytics/settings.clj:87
 msgid "Whether a non-table chart has already been generated. Required for analytics to track instance activation journey."
@@ -32455,7 +32455,7 @@ msgstr "بولی که نشان می‌دهد آیا یک collector از Snowplow
 
 #: metabase/analytics/settings.clj:11
 msgid "Unique identifier to be used in Snowplow analytics, to identify this instance of Metabase. This is a public setting since some analytics events are sent prior to initial setup."
-msgstr "شناسهٔ یکتا برای استفاده در آنالیتیکس Snowplow، برای شناسایی این نمونه از Amara. این یک تنظیم عمومی است چون بعضی رویدادهای آنالیتیکس قبل از setup اولیه ارسال می‌شوند."
+msgstr "شناسهٔ یکتا برای استفاده در آنالیتیکس Snowplow، برای شناسایی این نمونه از AMARA. این یک تنظیم عمومی است چون بعضی رویدادهای آنالیتیکس قبل از setup اولیه ارسال می‌شوند."
 
 #: metabase/analyze/query_results.clj:24
 msgid "value must be an array of valid results column metadata maps."
@@ -32511,7 +32511,7 @@ msgstr "دیتابیس قفل migration دارد؛ نمی‌توان migrationه
 
 #: metabase/app_db/liquibase.clj:246
 msgid "You can force-release these locks by running `java --add-opens java.base/java.nio=ALL-UNNAMED -jar metabase.jar migrate release-locks`."
-msgstr "می‌توانید با اجرای `java --add-opens java.base/java.nio=ALL-UNNAMED -jar amara.jar migrate release-locks` این قفل‌ها را به‌اجبار آزاد کنید."
+msgstr "می‌توانید با اجرای `java --add-opens java.base/java.nio=ALL-UNNAMED -jar AMARA.jar migrate release-locks` این قفل‌ها را به‌اجبار آزاد کنید."
 
 #: metabase/app_db/setup.clj:262
 msgid "Database setup"
@@ -32519,7 +32519,7 @@ msgstr "راه‌اندازی دیتابیس"
 
 #: metabase/app_db/setup.clj:243
 msgid "See: https://www.metabase.com/docs/latest/installation-and-operation/upgrading-metabase#rolling-back-an-upgrade"
-msgstr "ببینید: https://www.amara.com/docs/latest/installation-and-operation/upgrading-amara#rolling-back-an-upgrade"
+msgstr "ببینید: https://www.AMARA.com/docs/latest/installation-and-operation/upgrading-AMARA#rolling-back-an-upgrade"
 
 #: metabase/app_db/setup.clj:241
 msgid "Once your database has been downgraded, try running the application again."
@@ -32527,11 +32527,11 @@ msgstr "بعد از اینکه دیتابیس‌تان downgrade شد، دوبا
 
 #: metabase/app_db/setup.clj:239
 msgid "You must run `java --add-opens java.base/java.nio=ALL-UNNAMED -jar metabase.jar migrate down` from version {0}."
-msgstr "باید `java --add-opens java.base/java.nio=ALL-UNNAMED -jar amara.jar migrate down` را از نسخه {0} اجرا کنید."
+msgstr "باید `java --add-opens java.base/java.nio=ALL-UNNAMED -jar AMARA.jar migrate down` را از نسخه {0} اجرا کنید."
 
 #: metabase/app_db/setup.clj:237
 msgid "Your metabase instance appears to have been downgraded without a corresponding database downgrade."
-msgstr "به نظر می‌رسد نمونهٔ amara شما بدون downgrade متناظر دیتابیس downgrade شده است."
+msgstr "به نظر می‌رسد نمونهٔ AMARA شما بدون downgrade متناظر دیتابیس downgrade شده است."
 
 #: metabase/app_db/setup.clj:235
 msgid "ERROR: Downgrade detected."
@@ -32539,11 +32539,11 @@ msgstr "ERROR: Downgrade شناسایی شد."
 
 #: metabase/app_db/setup.clj:181
 msgid "Metabase {0} DB version not supported (found {1}, required {2}). Please upgrade your database to a supported version and try again."
-msgstr "نسخه DB {0} برای Amara پشتیبانی نمی‌شود (یافت شد {1}، لازم است {2}). لطفاً پایگاه داده‌تان را به یک نسخه پشتیبانی‌شده ارتقا دهید و دوباره تلاش کنید."
+msgstr "نسخه DB {0} برای AMARA پشتیبانی نمی‌شود (یافت شد {1}، لازم است {2}). لطفاً پایگاه داده‌تان را به یک نسخه پشتیبانی‌شده ارتقا دهید و دوباره تلاش کنید."
 
 #: metabase/app_db/setup.clj:169
 msgid "Unable to connect to Metabase {0} DB."
-msgstr "اتصال به DB {0} مربوط به Amara ممکن نیست."
+msgstr "اتصال به DB {0} مربوط به AMARA ممکن نیست."
 
 #: metabase/app_db/setup.clj:60
 msgid "Database requires manual upgrade."
@@ -32567,7 +32567,7 @@ msgstr "گزینه‌های نمایش تصویرسازی وقتی بعد از �
 
 #: metabase/appearance/settings.clj:296
 msgid "Keyword setting to control whitelabeling of the help link. Valid values are `:metabase`, `:hidden`, and `:custom`. If `:custom` is set, the help link will use the URL specified in the `help-link-custom-destination`, or be hidden if it is not set."
-msgstr "تنظیمِ کلیدواژه‌ای برای کنترل وایت‌لیبل‌کردنِ لینک Help. مقادیر معتبر `:amara`، `:hidden` و `:custom` هستند. اگر `:custom` تنظیم شود، لینک Help از URL مشخص‌شده در `help-link-custom-destination` استفاده می‌کند، یا اگر تنظیم نشده باشد پنهان می‌شود."
+msgstr "تنظیمِ کلیدواژه‌ای برای کنترل وایت‌لیبل‌کردنِ لینک Help. مقادیر معتبر `:AMARA`، `:hidden` و `:custom` هستند. اگر `:custom` تنظیم شود، لینک Help از URL مشخص‌شده در `help-link-custom-destination` استفاده می‌کند، یا اگر تنظیم نشده باشد پنهان می‌شود."
 
 #: metabase/appearance/settings.clj:274
 msgid "Options for displaying the illustration when there are no results after searching."
@@ -32583,7 +32583,7 @@ msgstr "گزینه‌های نمایش تصویرسازی در صفحهٔ ورو
 
 #: metabase/appearance/settings.clj:14
 msgid "Replace the word “Metabase” wherever it appears."
-msgstr "کلمهٔ «Amara» را هرجا که ظاهر می‌شود جایگزین کن."
+msgstr "کلمهٔ «AMARA» را هرجا که ظاهر می‌شود جایگزین کن."
 
 #: metabase/appearance/settings.clj:197
 msgid "Upload a file to use as the favicon."
@@ -32623,7 +32623,7 @@ msgstr "تصویرسازی سفارشی برای صفحهٔ فرود."
 
 #: metabase/appearance/settings.clj:339
 msgid "Whether or not to display Metabase links outside admin settings."
-msgstr "اینکه لینک‌های Amara خارج از تنظیمات مدیر نمایش داده شوند یا نه."
+msgstr "اینکه لینک‌های AMARA خارج از تنظیمات مدیر نمایش داده شوند یا نه."
 
 #: metabase/appearance/settings.clj:376
 msgid "Whether or not to display data on the homepage. Admins might turn this off in order to direct users to better content than raw data"
@@ -32643,7 +32643,7 @@ msgstr "جداکننده‌های عدد نامعتبر است."
 
 #: metabase/appearance/settings.clj:186
 msgid "Upload a file to replace the Metabase logo on the top bar."
-msgstr "یک فایل آپلود کنید تا لوگوی Amara در نوار بالایی جایگزین شود."
+msgstr "یک فایل آپلود کنید تا لوگوی AMARA در نوار بالایی جایگزین شود."
 
 #: metabase/appearance/settings.clj:308
 msgid "Invalid help link option"
@@ -32832,7 +32832,7 @@ msgstr "کاربر {0} وجود ندارد"
 
 #: metabase/channel/email/messages.clj:259
 msgid "We hope you''ve been enjoying Metabase."
-msgstr "امیدواریم از Amara لذت برده باشید."
+msgstr "امیدواریم از AMARA لذت برده باشید."
 
 #: metabase/channel/email/messages.clj:40
 msgid "Metabase"
@@ -32900,7 +32900,7 @@ msgstr "در مقایسه با ساعت قبل: {0}"
 
 #: metabase/channel/render/body.clj:687
 msgid "Please view this card in Metabase."
-msgstr "لطفاً این کارت را در Amara ببینید."
+msgstr "لطفاً این کارت را در AMARA ببینید."
 
 #: metabase/channel/render/body.clj:703
 msgid "This chart exceeded the {0} size limit."
@@ -32952,7 +32952,7 @@ msgstr "منبع Javascript پیدا نشد: {0}"
 
 #: metabase/channel/render/style.clj:131
 msgid "Error registering fonts: Metabase will not be able to send Pulses."
-msgstr "خطا در ثبت فونت‌ها: Amara قادر به ارسال پالس‌ها نخواهد بود."
+msgstr "خطا در ثبت فونت‌ها: AMARA قادر به ارسال پالس‌ها نخواهد بود."
 
 #: metabase/channel/render/style.clj:133
 msgid "This is a known issue with certain JVMs. See {0} and for more details."
@@ -33078,7 +33078,7 @@ msgstr "email-smtp-security-override نامعتبر است! فقط مقداره�
 
 #: metabase/channel/settings.clj:12
 msgid "Bot user OAuth token for connecting the Metabase Slack app. This should be used for all new Slack integrations starting in Metabase v0.42.0."
-msgstr "توکن OAuth کاربر بات برای اتصال اپ Slackِ Amara. از Amara v0.42.0 به بعد برای همهٔ یکپارچه‌سازی‌های جدید Slack باید از این استفاده شود."
+msgstr "توکن OAuth کاربر بات برای اتصال اپ Slackِ AMARA. از AMARA v0.42.0 به بعد برای همهٔ یکپارچه‌سازی‌های جدید Slack باید از این استفاده شود."
 
 #: metabase/channel/settings.clj:300
 msgid "Enable or disable surveys"
@@ -33110,11 +33110,11 @@ msgstr "این کانال برای ذخیرهٔ گزارش‌های باگ اس�
 
 #: metabase/cloud_migration/models/cloud_migration.clj:71
 msgid "Metabase is in read-only-mode mode!"
-msgstr "Amara در حالت فقط‌خواندنی است!"
+msgstr "AMARA در حالت فقط‌خواندنی است!"
 
 #: metabase/cloud_migration/settings.clj:75
 msgid "Boolean indicating whether a Metabase instance is in read-only mode with regards to its app db. Will take up to 1m to propagate to other Metabase instances in a cluster.Audit tables are excluded from read-only-mode mode."
-msgstr "بولی‌ای که نشان می‌دهد آیا یک نمونه Amara نسبت به app db در حالت فقط‌خواندنی است یا نه. انتشار آن به سایر نمونه‌های Amara در یک کلاستر ممکن است تا 1m طول بکشد. جدول‌های Audit از حالت فقط‌خواندنی مستثنا هستند."
+msgstr "بولی‌ای که نشان می‌دهد آیا یک نمونه AMARA نسبت به app db در حالت فقط‌خواندنی است یا نه. انتشار آن به سایر نمونه‌های AMARA در یک کلاستر ممکن است تا 1m طول بکشد. جدول‌های Audit از حالت فقط‌خواندنی مستثنا هستند."
 
 #: metabase/cloud_migration/settings.clj:63
 msgid "Custom dump version for migrations."
@@ -33178,7 +33178,7 @@ msgstr "خطا {0}: {1}"
 
 #: metabase/cmd/core.clj:51
 msgid "The ''{0}'' command is only available in Metabase Enterprise Edition."
-msgstr "دستور '{0}' فقط در Amara Enterprise Edition در دسترس است."
+msgstr "دستور '{0}' فقط در AMARA Enterprise Edition در دسترس است."
 
 #: metabase/cmd/core.clj:49
 msgid "{0} does not exist"
@@ -33443,7 +33443,7 @@ msgstr "نمی‌توان {0} را از فیلد زمان استخراج کرد"
 
 #: metabase/driver/common.clj:169
 msgid "By default, Metabase does a lightweight hourly sync and an intensive daily scan of field values. If you have a large database, turn this on to make changes."
-msgstr "به‌صورت پیش‌فرض، Amara یک sync سبکِ ساعتی و یک اسکن سنگینِ روزانه از مقدارهای فیلد انجام می‌دهد. اگر دیتابیس بزرگی دارید، این را روشن کنید تا تغییرات را اعمال کنید."
+msgstr "به‌صورت پیش‌فرض، AMARA یک sync سبکِ ساعتی و یک اسکن سنگینِ روزانه از مقدارهای فیلد انجام می‌دهد. اگر دیتابیس بزرگی دارید، این را روشن کنید تا تغییرات را اعمال کنید."
 
 #: metabase/driver/common.clj:158
 msgid "We execute the underlying query when you explore data using Summarize or Filter. This is on by default but you can turn it off if performance is slow."
@@ -33451,7 +33451,7 @@ msgstr "وقتی با خلاصه‌سازی یا فیلتر داده را کاو
 
 #: metabase/driver/common.clj:213
 msgid "This enables Metabase to scan for additional field values during syncs allowing smarter behavior, like improved auto-binning on your bar charts."
-msgstr "این امکان را به Amara می‌دهد که هنگام syncها برای مقدارهای بیشترِ فیلدها اسکن کند تا رفتار هوشمندانه‌تری داشته باشد، مثل بهبود binning خودکار در نمودارهای میله‌ای‌تان."
+msgstr "این امکان را به AMARA می‌دهد که هنگام syncها برای مقدارهای بیشترِ فیلدها اسکن کند تا رفتار هوشمندانه‌تری داشته باشد، مثل بهبود binning خودکار در نمودارهای میله‌ای‌تان."
 
 #: metabase/driver/common.clj:121
 msgid "Passphrase for SSH private key"
@@ -33459,7 +33459,7 @@ msgstr "عبارت گذرواژه برای کلید خصوصی SSH"
 
 #: metabase/driver/common.clj:188
 msgid "Metabase can scan the values present in each field in this database to enable checkbox filters in dashboards and questions. This can be a somewhat resource-intensive process, particularly if you have a very large database. When should Metabase automatically scan and cache field values?"
-msgstr "Amara می‌تواند مقدارهای موجود در هر فیلد این دیتابیس را اسکن کند تا فیلترهای چک‌باکسی را در داشبوردها و سؤال‌ها فعال کند. این می‌تواند فرایندی نسبتاً پرمصرف باشد، به‌خصوص اگر دیتابیس خیلی بزرگی دارید. Amara چه زمانی باید به‌صورت خودکار مقدارهای فیلد را اسکن و کش کند؟"
+msgstr "AMARA می‌تواند مقدارهای موجود در هر فیلد این دیتابیس را اسکن کند تا فیلترهای چک‌باکسی را در داشبوردها و سؤال‌ها فعال کند. این می‌تواند فرایندی نسبتاً پرمصرف باشد، به‌خصوص اگر دیتابیس خیلی بزرگی دارید. AMARA چه زمانی باید به‌صورت خودکار مقدارهای فیلد را اسکن و کش کند؟"
 
 #: metabase/driver/common.clj:115
 msgid "SSH private key to connect to the tunnel"
@@ -33511,7 +33511,7 @@ msgstr "هاست‌های شناخته‌شدهٔ SSH"
 
 #: metabase/driver/common.clj:264
 msgid "If your database is behind a firewall, you may need to allow connections from our Metabase [Cloud IP addresses](https://www.metabase.com/cloud/docs/ip-addresses-to-whitelist.html):"
-msgstr "اگر دیتابیس شما پشت فایروال است، ممکن است لازم باشد اتصال از [IPهای Cloud مربوط به Amara](https://www.amara.com/cloud/docs/ip-addresses-to-whitelist.html) را مجاز کنید:"
+msgstr "اگر دیتابیس شما پشت فایروال است، ممکن است لازم باشد اتصال از [IPهای Cloud مربوط به AMARA](https://www.AMARA.com/cloud/docs/ip-addresses-to-whitelist.html) را مجاز کنید:"
 
 #: metabase/driver/common.clj:103
 msgid "SSH Authentication"
@@ -34201,7 +34201,7 @@ msgstr "به نظر می‌رسد Username یا Password اشتباه است."
 
 #: metabase/driver/util.clj:421
 msgid "Comma separated names of {0} that should NOT appear in Metabase"
-msgstr "نام‌های {0} به‌صورت جداشده با کاما که نباید در Amara نمایش داده شوند"
+msgstr "نام‌های {0} به‌صورت جداشده با کاما که نباید در AMARA نمایش داده شوند"
 
 #: metabase/driver/util.clj:80
 msgid "Looks like you forgot to enter your Password."
@@ -34263,7 +34263,7 @@ msgstr "کلید SSL کلاینت نامعتبر است - آیا فایل درس
 
 #: metabase/driver/util.clj:414
 msgid "Comma separated names of {0} that should appear in Metabase"
-msgstr "نام‌های {0} به‌صورت جداشده با کاما که باید در Amara نمایش داده شوند"
+msgstr "نام‌های {0} به‌صورت جداشده با کاما که باید در AMARA نمایش داده شوند"
 
 #: metabase/driver/util.clj:103
 msgid "please enable SSL"
@@ -34348,15 +34348,15 @@ msgstr "اینکه آیا تم‌های پیش‌فرض تعبیه‌سازی Li
 
 #: metabase/embedding/settings.clj:126
 msgid "Allow these space delimited origins to embed Metabase interactive."
-msgstr "به این originهای جداشده با فاصله اجازه بده Amara تعاملی جاسازی شود."
+msgstr "به این originهای جداشده با فاصله اجازه بده AMARA تعاملی جاسازی شود."
 
 #: metabase/embedding/settings.clj:108
 msgid "Allow admins to embed Metabase via modular embedding?"
-msgstr "به مدیران اجازه داده شود Amara را از طریق تعبیه‌سازی ماژولار جاسازی کنند؟"
+msgstr "به مدیران اجازه داده شود AMARA را از طریق تعبیه‌سازی ماژولار جاسازی کنند؟"
 
 #: metabase/embedding/settings.clj:88
 msgid "Allow this origin to embed the full Metabase application."
-msgstr "به این origin اجازه بده کل اپلیکیشن Amara جاسازی شود."
+msgstr "به این origin اجازه بده کل اپلیکیشن AMARA جاسازی شود."
 
 #: metabase/embedding/settings.clj:315
 msgid "Indicates if the user has manually confirmed that SSO authentication is working correctly"
@@ -34372,7 +34372,7 @@ msgstr "embedding-secret-key نامعتبر است! کلید مخفی باید �
 
 #: metabase/embedding/settings.clj:99
 msgid "Allow admins to embed Metabase via the SDK?"
-msgstr "به مدیران اجازه داده شود Amara را از طریق SDK جاسازی کنند؟"
+msgstr "به مدیران اجازه داده شود AMARA را از طریق SDK جاسازی کنند؟"
 
 #: metabase/embedding/settings.clj:17
 msgid "Secret key used to sign JSON Web Tokens for requests to `/api/embed` endpoints."
@@ -34380,11 +34380,11 @@ msgstr "کلید مخفی برای امضای JSON Web Tokenها برای درخ
 
 #: metabase/embedding/settings.clj:117
 msgid "Allow admins to embed Metabase via interactive embedding?"
-msgstr "به مدیران اجازه داده شود Amara را از طریق تعبیه‌سازی تعاملی جاسازی کنند؟"
+msgstr "به مدیران اجازه داده شود AMARA را از طریق تعبیه‌سازی تعاملی جاسازی کنند؟"
 
 #: metabase/embedding/settings.clj:181
 msgid "Allow Metabase SDK access to these space delimited origins."
-msgstr "به این originهای جداشده با فاصله اجازهٔ دسترسی Amara SDK بده."
+msgstr "به این originهای جداشده با فاصله اجازهٔ دسترسی AMARA SDK بده."
 
 #: metabase/embedding/settings.clj:28
 msgid "Check if the static embedding licensing should be hidden in the static embedding flow"
@@ -34400,7 +34400,7 @@ msgstr "وضعیت صفحهٔ اصلی تعبیه‌سازی، مشخص می‌�
 
 #: metabase/embedding/settings.clj:135
 msgid "Allow admins to embed Metabase via static embedding?"
-msgstr "به مدیران اجازه داده شود Amara را از طریق تعبیه‌سازی استاتیک جاسازی کنند؟"
+msgstr "به مدیران اجازه داده شود AMARA را از طریق تعبیه‌سازی استاتیک جاسازی کنند؟"
 
 #: metabase/embedding/settings.clj:38
 msgid "Check if admin should see the SDK licensing terms popup"
@@ -35902,7 +35902,7 @@ msgstr "URL پایه API OpenAI."
 
 #: metabase/llm/settings.clj:146
 msgid "Whether the LLM proxy is configured for the managed Metabase AI service."
-msgstr "اینکه پراکسی LLM برای سرویس هوش مصنوعی مدیریت‌شده Amara پیکربندی شده است یا نه."
+msgstr "اینکه پراکسی LLM برای سرویس هوش مصنوعی مدیریت‌شده AMARA پیکربندی شده است یا نه."
 
 #: metabase/llm/settings.clj:188
 msgid "Maximum SQL generation requests per user per minute."
@@ -35926,7 +35926,7 @@ msgstr "فرمت کلید API OpenRouter نامعتبر است. کلید بای�
 
 #: metabase/llm/settings.clj:126
 msgid "Base URL for the LLM proxy. When set, requests to the managed Metabase AI service are routed through this proxy and authenticated with the instance token instead of a provider API key."
-msgstr "URL پایه برای پراکسی LLM. اگر تنظیم شود، درخواست‌ها به سرویس هوش مصنوعی مدیریت‌شده Amara از طریق این پراکسی مسیردهی می‌شوند و به‌جای کلید API ارائه‌دهنده، با توکن نمونه احراز هویت می‌شوند."
+msgstr "URL پایه برای پراکسی LLM. اگر تنظیم شود، درخواست‌ها به سرویس هوش مصنوعی مدیریت‌شده AMARA از طریق این پراکسی مسیردهی می‌شوند و به‌جای کلید API ارائه‌دهنده، با توکن نمونه احراز هویت می‌شوند."
 
 #: metabase/llm/settings.clj:24
 msgid "The Anthropic API Key."
@@ -35962,7 +35962,7 @@ msgstr "Socket timeout بر حسب میلی‌ثانیه برای درخواست
 
 #: metabase/llm/settings.clj:136
 msgid "Base URL for the managed Metabase AI service."
-msgstr "URL پایه برای سرویس هوش مصنوعیِ مدیریت‌شدهٔ Amara."
+msgstr "URL پایه برای سرویس هوش مصنوعیِ مدیریت‌شدهٔ AMARA."
 
 #: metabase/llm/settings.clj:97
 msgid "Invalid OpenAI API key format. Key must start with ''sk-''."
@@ -36269,7 +36269,7 @@ msgstr "ارائه‌دهنده بالادستی OpenRouter یک خطا برگر
 
 #: metabase/metabot/settings.clj:175
 msgid "Model name is required. Expected format: metabase/provider/model, e.g. {0}"
-msgstr "نام مدل الزامی است. قالب مورد انتظار: amara/provider/model، مثلاً {0}"
+msgstr "نام مدل الزامی است. قالب مورد انتظار: AMARA/provider/model، مثلاً {0}"
 
 #: metabase/metabot/settings.clj:57
 msgid "Custom system prompt for the Metabot chat (sidebar AI chat) experience."
@@ -36277,7 +36277,7 @@ msgstr "پرامپت سیستم سفارشی برای تجربه چت Metabot (�
 
 #: metabase/metabot/settings.clj:168
 msgid "Unsupported provider {0} for metabase managed AI. Supported providers: {1}"
-msgstr "ارائه‌دهندهٔ پشتیبانی‌نشده {0} برای هوش مصنوعیِ مدیریت‌شدهٔ amara. ارائه‌دهنده‌های پشتیبانی‌شده: {1}"
+msgstr "ارائه‌دهندهٔ پشتیبانی‌نشده {0} برای هوش مصنوعیِ مدیریت‌شدهٔ AMARA. ارائه‌دهنده‌های پشتیبانی‌شده: {1}"
 
 #: metabase/metabot/settings.clj:150
 msgid "Model name is required. Expected format: provider/model, e.g. \"anthropic/claude-haiku-4-5\""
@@ -36285,7 +36285,7 @@ msgstr "نام مدل الزامی است. قالب مورد انتظار: provi
 
 #: metabase/metabot/settings.clj:180
 msgid "Unsupported model {0} for metabase managed provider {1}. Supported models: {2}"
-msgstr "مدل پشتیبانی‌نشده {0} برای ارائه‌دهندهٔ مدیریت‌شدهٔ amara {1}. مدل‌های پشتیبانی‌شده: {2}"
+msgstr "مدل پشتیبانی‌نشده {0} برای ارائه‌دهندهٔ مدیریت‌شدهٔ AMARA {1}. مدل‌های پشتیبانی‌شده: {2}"
 
 #: metabase/metabot/settings.clj:77
 msgid "Custom system prompt for the SQL generation experience."
@@ -36333,7 +36333,7 @@ msgstr "پرامپت سیستم سفارشی برای تجربه کوئریِ ز
 
 #: metabase/metabot/settings.clj:159
 msgid "Invalid metabase managed AI provider {0}. Must start with {1}/."
-msgstr "ارائه‌دهندهٔ هوش مصنوعیِ مدیریت‌شدهٔ amara نامعتبر {0}. باید با {1}/ شروع شود."
+msgstr "ارائه‌دهندهٔ هوش مصنوعیِ مدیریت‌شدهٔ AMARA نامعتبر {0}. باید با {1}/ شروع شود."
 
 #: metabase/metabot/settings.clj:18
 msgid "Whether Metabot is enabled for regular usage."
@@ -36439,7 +36439,7 @@ msgstr "استراتژی humanization نامعتبر ''{0}''. استراتژی�
 
 #: metabase/models/humanization.clj:83
 msgid "To make table and field names more human-friendly, Metabase will replace dashes and underscores in them with spaces. We’ll capitalize each word while at it, so ‘last_visited_at’ will become ‘Last Visited At’."
-msgstr "برای اینکه نام جدول‌ها و فیلدها human-friendlyتر شوند، Amara خط تیره‌ها و underscoreها را با فاصله جایگزین می‌کند. هم‌زمان هر کلمه را Capitalize می‌کنیم، پس ‘last_visited_at’ تبدیل می‌شود به ‘Last Visited At’."
+msgstr "برای اینکه نام جدول‌ها و فیلدها human-friendlyتر شوند، AMARA خط تیره‌ها و underscoreها را با فاصله جایگزین می‌کند. هم‌زمان هر کلمه را Capitalize می‌کنیم، پس ‘last_visited_at’ تبدیل می‌شود به ‘Last Visited At’."
 
 #: metabase/native_query_snippets/api.clj:57
 #: metabase_enterprise/dependencies/api.clj:143
@@ -36722,15 +36722,15 @@ msgstr "{0} وابستگی {1} برآورده شد؟ {2}"
 
 #: metabase/plugins/dependencies.clj:49
 msgid "Metabase cannot initialize plugin {0} due to required dependencies."
-msgstr "Amara به‌دلیل وابستگی‌های لازم نمی‌تواند پلاگین {0} را مقداردهی اولیه کند."
+msgstr "AMARA به‌دلیل وابستگی‌های لازم نمی‌تواند پلاگین {0} را مقداردهی اولیه کند."
 
 #: metabase/plugins/impl.clj:33
 msgid "Metabase does not have permissions to write to plugins directory {0}"
-msgstr "Amara مجوز نوشتن در پوشهٔ پلاگین‌ها را ندارد {0}"
+msgstr "AMARA مجوز نوشتن در پوشهٔ پلاگین‌ها را ندارد {0}"
 
 #: metabase/plugins/impl.clj:49
 msgid "Metabase cannot write to temporary directory. Please set MB_PLUGINS_DIR to a writable directory and restart Metabase."
-msgstr "Amara نمی‌تواند در دایرکتوری موقت بنویسد. لطفاً MB_PLUGINS_DIR را روی یک دایرکتوری قابل نوشتن تنظیم کنید و Amara را راه‌اندازی مجدد کنید."
+msgstr "AMARA نمی‌تواند در دایرکتوری موقت بنویسد. لطفاً MB_PLUGINS_DIR را روی یک دایرکتوری قابل نوشتن تنظیم کنید و AMARA را راه‌اندازی مجدد کنید."
 
 #: metabase/plugins/lazy_loaded_driver.clj:31
 msgid "Invalid connection property {0}: not a string or map."
@@ -36794,7 +36794,7 @@ msgstr "افزودن یک کاربر دیگر از حداکثر تعداد کا�
 
 #: metabase/premium_features/token_check.clj:685
 msgid "{0} is a paid feature not currently available to your instance. Please upgrade to use it. Learn more at metabase.com/upgrade/"
-msgstr "{0} یک قابلیت پولی است که در حال حاضر برای نمونهٔ شما در دسترس نیست. لطفاً برای استفاده از آن ارتقا دهید. اطلاعات بیشتر در amara.com/upgrade/"
+msgstr "{0} یک قابلیت پولی است که در حال حاضر برای نمونهٔ شما در دسترس نیست. لطفاً برای استفاده از آن ارتقا دهید. اطلاعات بیشتر در AMARA.com/upgrade/"
 
 #: metabase/premium_features/token_check.clj:583
 msgid "Token format is invalid."
@@ -37213,7 +37213,7 @@ msgstr "نوع جلسه نامعتبر است."
 
 #: metabase/request/settings.clj:18
 msgid "Indicates whether Metabase is running behind a proxy that sets the source-address-header for incoming requests."
-msgstr "مشخص می‌کند آیا Amara پشت یک پروکسی اجرا می‌شود که برای درخواست‌های ورودی source-address-header را تنظیم می‌کند یا نه."
+msgstr "مشخص می‌کند آیا AMARA پشت یک پروکسی اجرا می‌شود که برای درخواست‌های ورودی source-address-header را تنظیم می‌کند یا نه."
 
 #: metabase/request/settings.clj:53
 msgid "Invalid value for session cookie samesite"
@@ -37504,7 +37504,7 @@ msgstr "جست‌وجوی تکمیل خودکار را در navbarِ {0} فعا�
 
 #: metabase/secrets/models/secret.clj:185
 msgid "{0} (a local file path) cannot be used in Metabase hosted environment"
-msgstr "{0} (یک مسیر فایل محلی) نمی‌تواند در محیط میزبانی شده Amara استفاده شود"
+msgstr "{0} (یک مسیر فایل محلی) نمی‌تواند در محیط میزبانی شده AMARA استفاده شود"
 
 #: metabase/secrets/models/secret.clj:251
 msgid "{0} points to non-existent file: {1}"
@@ -37520,7 +37520,7 @@ msgstr "نمی‌توانید creator_id یک بخش را به‌روزرسان�
 
 #: metabase/server/routes/index.clj:78
 msgid "Failed to load template ''{0}''. Did you remember to build the Metabase frontend?"
-msgstr "بارگذاری تمپلیت ''{0}'' ناموفق بود. یادتان هست فرانت‌اند Amara را build کنید؟"
+msgstr "بارگذاری تمپلیت ''{0}'' ناموفق بود. یادتان هست فرانت‌اند AMARA را build کنید؟"
 
 #: metabase/server/settings.clj:55
 msgid "Cannot redirect requests to HTTPS unless `site-url` is HTTPS."
@@ -37685,7 +37685,7 @@ msgstr "نمی‌توان `has-user-setup` را تنظیم کرد."
 
 #: metabase/setup/settings.clj:32
 msgid "A value that is true iff the metabase instance has one or more users registered."
-msgstr "مقداری که فقط و فقط اگر نمونهٔ amara یک یا چند کاربر ثبت‌نام‌شده داشته باشد true است."
+msgstr "مقداری که فقط و فقط اگر نمونهٔ AMARA یک یا چند کاربر ثبت‌نام‌شده داشته باشد true است."
 
 #: metabase/setup_rest/api.clj:42
 msgid "The /api/setup route can only be used to create the first user, however a user currently exists."
@@ -37737,7 +37737,7 @@ msgstr "ایمیل تأیید نشده است."
 
 #: metabase/sso/google.clj:33
 msgid "Google Sign-In token appears to be incorrect. Double check that it matches in Google and Metabase."
-msgstr "به نظر می‌رسد توکن Google Sign-In نادرست است. دوباره بررسی کنید که در Google و Amara یکسان باشد."
+msgstr "به نظر می‌رسد توکن Google Sign-In نادرست است. دوباره بررسی کنید که در Google و AMARA یکسان باشد."
 
 #: metabase/sso/google.clj:28
 msgid "Invalid Google Sign-In token."
@@ -37778,11 +37778,11 @@ msgstr "احراز هویت OIDC نیاز دارد MB_ENCRYPTION_SECRET_KEY تن
 
 #: metabase/sso/providers/google.clj:74
 msgid "You''ll need an administrator to create a Metabase account before you can use Google to log in."
-msgstr "قبل از اینکه بتوانید با Google وارد شوید، لازم است یک مدیر یک حساب Amara برایتان بسازد."
+msgstr "قبل از اینکه بتوانید با Google وارد شوید، لازم است یک مدیر یک حساب AMARA برایتان بسازد."
 
 #: metabase/sso/providers/slack_connect.clj:77
 msgid "Sorry, but you''ll need a Metabase account to view this page. Please contact your administrator."
-msgstr "متأسفیم، اما برای دیدن این صفحه به یک حساب Amara نیاز دارید. لطفاً با ادمین خود تماس بگیرید."
+msgstr "متأسفیم، اما برای دیدن این صفحه به یک حساب AMARA نیاز دارید. لطفاً با ادمین خود تماس بگیرید."
 
 #: metabase/sso/providers/slack_connect.clj:108
 msgid "Slack Connect authentication is not enabled"
@@ -37896,7 +37896,7 @@ msgstr "همگام‌سازی عضویت گروه‌ها با LDAP را فعال
 
 #: metabase/sso/settings.clj:193
 msgid "When a user logs in via Slack Connect, create a Metabase account for them automatically if they don''t have one."
-msgstr "وقتی کاربری از طریق Slack Connect وارد می‌شود، اگر حساب Amara ندارد، به‌صورت خودکار برایش یک حساب Amara بساز."
+msgstr "وقتی کاربری از طریق Slack Connect وارد می‌شود، اگر حساب AMARA ندارد، به‌صورت خودکار برایش یک حساب AMARA بساز."
 
 #: metabase/sso/settings.clj:211
 msgid "Are the mandatory Slack Connect settings configured?"
@@ -37920,7 +37920,7 @@ msgstr "ورود با گوگل پیکربندی نشده است. لطفا ابت
 
 #: metabase/sso/settings.clj:95
 msgid "JSON containing LDAP to Metabase group mappings."
-msgstr "JSON شامل نگاشت گروه‌های LDAP به گروه‌های Amara."
+msgstr "JSON شامل نگاشت گروه‌های LDAP به گروه‌های AMARA."
 
 #: metabase/sso/settings.clj:39
 msgid "The Distinguished Name to bind as (if any), this user will be used to lookup information about other users."
@@ -38275,7 +38275,7 @@ msgstr "ID دیتابیس برای آپلودها"
 
 #: metabase/users/models/user.clj:115
 msgid "Metabase instance has not been initialized"
-msgstr "نمونه Amara مقداردهی اولیه نشده است"
+msgstr "نمونه AMARA مقداردهی اولیه نشده است"
 
 #: metabase/users/models/user.clj:96
 msgid "Invalid email: {0}"
@@ -38423,7 +38423,7 @@ msgstr "value باید یک رشتهٔ زمان‌بندی Cron معتبرِ Qua
 
 #: metabase/util/cron.clj:53
 msgid "value must be a valid schedule map. See schema in metabase.util.cron for details."
-msgstr "value باید یک schedule map معتبر باشد. برای جزئیات، schema را در amara.util.cron ببینید."
+msgstr "value باید یک schedule map معتبر باشد. برای جزئیات، schema را در AMARA.util.cron ببینید."
 
 #: metabase/util/date_2.clj:366
 msgid "Invalid unit: {0}"
@@ -38599,15 +38599,15 @@ msgstr "<< REDACTED SECRET >>"
 
 #: metabase/version/settings.clj:90
 msgid "Metabase version for which a notice about usage of deprecated features has been shown."
-msgstr "نسخه Amara که اطلاعیه‌ای در مورد استفاده از ویژگی‌های منسوخ شده نشان داده شده است."
+msgstr "نسخه AMARA که اطلاعیه‌ای در مورد استفاده از ویژگی‌های منسوخ شده نشان داده شده است."
 
 #: metabase/version/settings.clj:82
 msgid "Indicates when Metabase last checked for new versions."
-msgstr "زمانی که Amara آخرین بار برای نسخه‌های جدید بررسی کرده است را نشان می‌دهد."
+msgstr "زمانی که AMARA آخرین بار برای نسخه‌های جدید بررسی کرده است را نشان می‌دهد."
 
 #: metabase/version/settings.clj:17
 msgid "Identify when new versions of Metabase are available."
-msgstr "تشخیص بده چه زمانی نسخه‌های جدید Amara در دسترس هستند."
+msgstr "تشخیص بده چه زمانی نسخه‌های جدید AMARA در دسترس هستند."
 
 #: metabase/version/settings.clj:23
 msgid "Threshold (value in 0-100) indicating at which threshold it should offer an upgrade to the latest major version."
@@ -38615,7 +38615,7 @@ msgstr "آستانه (مقدار بین 0 تا 100) که مشخص می‌کند 
 
 #: metabase/version/settings.clj:69
 msgid "Information about available versions of Metabase."
-msgstr "اطلاعات دربارهٔ نسخه‌های در دسترس Amara."
+msgstr "اطلاعات دربارهٔ نسخه‌های در دسترس AMARA."
 
 #: metabase/warehouse_schema/models/field.clj:50
 msgid "Invalid value for Field column {0}: {1} is not a descendant of any of these types: {2}"
@@ -38663,7 +38663,7 @@ msgstr "موتور روی یک پایگاه داده نمونه نمی‌توا�
 
 #: metabase/warehouses/settings.clj:9
 msgid "Metabase Cloud gateway IP addresses, to configure connections to DBs behind firewalls"
-msgstr "آدرس‌های IP دروازه Amara Cloud، برای پیکربندی اتصالات به پایگاه‌های داده پشت فایروال‌ها"
+msgstr "آدرس‌های IP دروازه AMARA Cloud، برای پیکربندی اتصالات به پایگاه‌های داده پشت فایروال‌ها"
 
 #: metabase/warehouses/util.clj:57
 msgid "Host ''{0}'' is not reachable"
@@ -38985,7 +38985,7 @@ msgstr "باید رشته‌ای مثل 2020-04 یا 2222-11 باشد."
 
 #: metabase_enterprise/advanced_config/file.clj:263
 msgid "Metabase config files require a Premium token with the :config-text-file feature."
-msgstr "فایل‌های کانفیگ Amara به یک توکن Premium با قابلیت :config-text-file نیاز دارند."
+msgstr "فایل‌های کانفیگ AMARA به یک توکن Premium با قابلیت :config-text-file نیاز دارند."
 
 #: metabase_enterprise/advanced_config/file.clj:181
 msgid "Don''t know how to expand template form: {0}"
@@ -39117,11 +39117,11 @@ msgstr "نتوانستیم این افزونه را خریداری کنیم."
 
 #: metabase_enterprise/cloud_add_ons/api.clj:27
 msgid "Can only access Store API for Metabase Cloud instances."
-msgstr "فقط برای نمونه‌های Amara Cloud می‌توان به Store API دسترسی داشت."
+msgstr "فقط برای نمونه‌های AMARA Cloud می‌توان به Store API دسترسی داشت."
 
 #: metabase_enterprise/cloud_add_ons/api.clj:31
 msgid "Only Metabase Store users can purchase add-ons."
-msgstr "فقط کاربران Amara Store می‌توانند افزونه‌ها را خریداری کنند."
+msgstr "فقط کاربران AMARA Store می‌توانند افزونه‌ها را خریداری کنند."
 
 #: metabase_enterprise/cloud_add_ons/api.clj:78
 msgid "Please configure store-api-url"
@@ -39141,7 +39141,7 @@ msgstr "خرید افزونه نیازمند تعیین تعداد است."
 
 #: metabase_enterprise/cloud_add_ons/api.clj:19
 msgid "Could not establish a connection to Metabase Cloud."
-msgstr "نتوانستیم اتصال به Amara Cloud را برقرار کنیم."
+msgstr "نتوانستیم اتصال به AMARA Cloud را برقرار کنیم."
 
 #: metabase_enterprise/cloud_add_ons/api.clj:25
 msgid "Unexpected error"
@@ -39408,7 +39408,7 @@ msgstr "اجازه دادن به رفتارهای خاص همگام‌سازی �
 
 #: metabase_enterprise/remote_sync/settings.clj:44
 msgid "The location of your git repository, e.g. https://github.com/acme-inco/metabase.git"
-msgstr "مکان ریپازیتوری git شما، مثلاً https://github.com/acme-inco/amara.git"
+msgstr "مکان ریپازیتوری git شما، مثلاً https://github.com/acme-inco/AMARA.git"
 
 #: metabase_enterprise/remote_sync/settings.clj:159
 msgid "Time-to-live in seconds for the remote changes check cache. Default is 60 seconds."
@@ -39790,7 +39790,7 @@ msgstr "این نام برنامه برای درخواست‌ها به ارائ�
 
 #: metabase_enterprise/sso/settings.clj:48
 msgid "Determines what happens when a user logs in via LDAP and doesn''t have a Metabase account."
-msgstr "تعیین می‌کند وقتی کاربر از طریق LDAP وارد می‌شود و حساب Amara ندارد چه اتفاقی می‌افتد."
+msgstr "تعیین می‌کند وقتی کاربر از طریق LDAP وارد می‌شود و حساب AMARA ندارد چه اتفاقی می‌افتد."
 
 #: metabase_enterprise/sso/settings.clj:354
 msgid "Group membership lookup filter. The placeholders '{dn}' and '{uid}' will be replaced by the user''s Distinguished Name and UID, respectively."
@@ -39808,7 +39808,7 @@ msgstr "JSON شامل پیکربندی‌های ارائه‌دهنده OIDC."
 
 #: metabase_enterprise/sso/settings.clj:423
 msgid "Determines what happens when a user logs in via OIDC and doesn''t have a Metabase account."
-msgstr "تعیین می‌کند وقتی کاربر از طریق OIDC وارد می‌شود و حساب Amara ندارد چه اتفاقی می‌افتد."
+msgstr "تعیین می‌کند وقتی کاربر از طریق OIDC وارد می‌شود و حساب AMARA ندارد چه اتفاقی می‌افتد."
 
 #: metabase_enterprise/sso/settings.clj:161
 msgid "JSON containing SAML to {0} group mappings."
@@ -39864,11 +39864,11 @@ msgstr "ویژگی SAML برای slug مستأجرِ کاربر"
 
 #: metabase_enterprise/sso/settings.clj:40
 msgid "Determines what happens when a user logs in via JWT and doesn''t have a Metabase account."
-msgstr "تعیین می‌کند وقتی کاربر از طریق JWT وارد می‌شود و حساب Amara ندارد چه اتفاقی می‌افتد."
+msgstr "تعیین می‌کند وقتی کاربر از طریق JWT وارد می‌شود و حساب AMARA ندارد چه اتفاقی می‌افتد."
 
 #: metabase_enterprise/sso/settings.clj:27
 msgid "Determines what happens when a user logs in via SAML and doesn''t have a Metabase account."
-msgstr "تعیین می‌کند وقتی کاربر از طریق SAML وارد می‌شود و حساب Amara ندارد چه اتفاقی می‌افتد."
+msgstr "تعیین می‌کند وقتی کاربر از طریق SAML وارد می‌شود و حساب AMARA ندارد چه اتفاقی می‌افتد."
 
 #: metabase_enterprise/sso/settings.clj:206
 msgid "This is the URL where your users go to logout of your identity provider. Depending on which IdP you''re\n"

@@ -63,28 +63,47 @@
   {:headers  (po-headers locale)
    :messages (po-messages-seq locale)})
 
+(defn- source-paths [{:keys [source-references]}]
+  (eduction
+   ;; Sometimes 2 paths exist in a single string, space separated
+   (mapcat #(str/split % #" "))
+   ;; Strip off the line number at the end of some paths
+   (map #(str/split % #":"))
+   (map first)
+   source-references))
+
+(defn automagic-dashboard-message?
+  "True when a gettext message originates from an automatic-dashboard YAML template."
+  [message]
+  (boolean
+   (some (fn [path]
+           (and (str/includes? path "resources/automagic_dashboards/")
+                (str/ends-with? path ".yaml")))
+         (source-paths message))))
+
+(defn runtime-message-id
+  "Return the MessageFormat key used at runtime for a backend message. Dashboard YAML escapes
+  apostrophes for MessageFormat, while gettext stores the corresponding msgid unescaped."
+  [{:keys [id] :as message}]
+  (cond-> id
+    (automagic-dashboard-message? message) (str/replace "'" "''")))
+
 (defn backend-message?
   "True if `message` (the shape returned by `po-messages-seq`) originates from a Clojure source file
-  — i.e. one of its `:source-references` ends in `.clj` or `.cljc`. This is the same filter used by
+  or an automatic-dashboard YAML template. This is the same filter used by
   `i18n.create-artifacts.backend` when writing the backend `.edn` artifacts, and by `i18n.validation`
   when deciding which translations to sanity-check as `java.text.MessageFormat` patterns. Frontend
   strings use a different format system (`#, javascript-format` in the `.po`) and their own
   validation rules, so this scanner skips them."
-  [{:keys [source-references]}]
+  [message]
   (boolean
-   (let [paths (eduction
-                ;; Sometimes 2 paths exist in a single string, space separated
-                (mapcat #(str/split % #" "))
-                ;; Strip off the line number at the end of some paths
-                (map #(str/split % #":"))
-                (map first)
-                source-references)]
-     (some (fn [path]
-             (some
-              (fn [suffix]
-                (str/ends-with? path suffix))
-              [".clj" ".cljc"]))
-           paths))))
+   (or (automagic-dashboard-message? message)
+       (some (fn [path]
+               (some
+                (fn [suffix]
+                  (str/ends-with? path suffix))
+                [".clj" ".cljc"]))
+             (source-paths message)))))
 
 (defn print-message-count-xform
   "Transducer that prints a count of how many translation strings we process/write."

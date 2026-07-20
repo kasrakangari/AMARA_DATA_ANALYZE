@@ -41,7 +41,7 @@
 
     "translations"
     {"" {"Metabase" {"msgid"  "Metabase"
-                     "msgstr" ["Metabase"]}}}}))
+                     "msgstr" ["AMARA"]}}}}))
 
 (defn- localization-json-file-name [locale-string]
   (format "frontend_client/app/locales/%s.json" (str/replace locale-string \- \_)))
